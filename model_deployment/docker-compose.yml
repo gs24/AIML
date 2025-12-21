@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./backend
+    container_name: superkart-backend
+    ports:
+      - "7800:7800"
+
+  frontend:
+    build: ./frontend
+    container_name: superkart-frontend
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
