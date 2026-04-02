@@ -1,18 +1,23 @@
+
 name: ML Pipeline
 
 on:
   push:
-    branches: [ main ]
-
+    branches:
+      - main
 
 jobs:
   train:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
     - name: Install dependencies
-      run: pip install -r deployment/requirements.txt
-      
-    - name: Run Training
-      run: python -m src/train_model.py
+      run: |
+        pip install pandas scikit-learn joblib huggingface_hub datasets
+
+    - name: Train model
+      run: python src/train.py
+    
