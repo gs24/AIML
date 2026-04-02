@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   train:
@@ -21,11 +22,12 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install pandas scikit-learn joblib huggingface_hub datasets
+        pip install pandas scikit-learn joblib datasets huggingface_hub
 
     - name: Login to Hugging Face
-      run: huggingface-cli login --token ${{ secrets.HF_TOKEN }}
+      run: |
+        python -c "from huggingface_hub import login; login(token='${{ secrets.HF_TOKEN }}')"
 
     - name: Train model
-      run: python src/train.py
-    
+      run: python visit_with_us_mlops/src/train.py
+      
