@@ -1,0 +1,31 @@
+
+name: ML Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        pip install pandas scikit-learn joblib huggingface_hub datasets
+
+    - name: Login to Hugging Face
+      run: huggingface-cli login --token ${{ secrets.HF_TOKEN }}
+
+    - name: Train model
+      run: python src/train.py
+    
