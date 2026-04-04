@@ -4,14 +4,27 @@ import pandas as pd
 import joblib
 from huggingface_hub import hf_hub_download
 
-model_path = hf_hub_download(
-    repo_id="gsri24/visit-with-us-wellness-model",
-    filename="wellness_best_pipeline.pkl"
-)
-
-pipeline = joblib.load(model_path)
-
 st.title("Wellness Tourism Package Prediction")
+
+@st.cache_resource
+def load_model():
+    try:
+        st.write("Downloading model from Hugging Face...")
+        model_path = hf_hub_download(
+            repo_id="gsri24/visit-with-us-wellness-model",
+            filename="wellness_best_pipeline.pkl"
+        )
+        st.write("Model downloaded successfully.")
+        model = joblib.load(model_path)
+        st.write("Model loaded successfully.")
+        return model
+    except Exception as e:
+        st.error(f"Error loading model: {e}")
+        return None
+
+pipeline = load_model()
+
+
 
 age = st.number_input("Age", 18, 70)
 city_tier = st.selectbox("City Tier", [1, 2, 3])
@@ -30,9 +43,11 @@ own_car = st.selectbox("Own Car", [0, 1])
 children = st.number_input("Number of Children Visiting", 0, 5)
 persons = st.number_input("Number of Persons Visiting", 1, 5)
 hotel_star = st.selectbox("Preferred Property Star", [3, 4, 5])
+contact = st.selectbox("Type of Contact", ["Self Inquiry", "Company Invited"])
 
 input_df = pd.DataFrame({
     "Age": [age],
+    "TypeofContact": [contact],
     "CityTier": [city_tier],
     "Occupation": [occupation],
     "Gender": [gender],
