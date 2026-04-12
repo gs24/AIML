@@ -1,0 +1,1315 @@
+Product_Weight,Product_Sugar_Content,Product_Allocated_Area,Product_Type,Product_MRP,Store_Id,Store_Size,Store_Location_City_Type,Store_Type,Product_Store_Sales_Total,Store_Age
+11.58,Low Sugar,0.018,Meat,141.99,OUT004,Medium,Tier 2,Supermarket Type2,3108.47,17
+12.78,Low Sugar,0.07,Fruits and Vegetables,143.58,OUT004,Medium,Tier 2,Supermarket Type2,3411.71,17
+13.1,Regular,0.128,Dairy,160.19,OUT004,Medium,Tier 2,Supermarket Type2,3822.63,17
+13.18,Regular,0.14,Breakfast,144.03,OUT004,Medium,Tier 2,Supermarket Type2,3510.58,17
+11.07,Low Sugar,0.067,Dairy,125.2,OUT004,Medium,Tier 2,Supermarket Type2,2648.73,17
+7.27,Low Sugar,0.061,Soft Drinks,134.1,OUT002,Small,Tier 3,Food Mart,1973.12,28
+11.01,No Sugar,0.013,Household,143.38,OUT004,Medium,Tier 2,Supermarket Type2,3008.18,17
+12.24,Low Sugar,0.151,Baking Goods,121.0,OUT004,Medium,Tier 2,Supermarket Type2,2828.08,17
+13.83,No Sugar,0.1,Health and Hygiene,134.77,OUT004,Medium,Tier 2,Supermarket Type2,3469.51,17
+13.95,Low Sugar,0.055,Canned,190.17,OUT001,High,Tier 2,Supermarket Type1,4628.81,39
+13.11,Low Sugar,0.165,Fruits and Vegetables,140.91,OUT004,Medium,Tier 2,Supermarket Type2,3430.61,17
+14.5,Low Sugar,0.102,Snack Foods,145.7,OUT004,Medium,Tier 2,Supermarket Type2,3842.61,17
+14.33,No Sugar,0.061,Health and Hygiene,138.52,OUT004,Medium,Tier 2,Supermarket Type2,3658.43,17
+15.29,Regular,0.12,Canned,140.61,OUT004,Medium,Tier 2,Supermarket Type2,3918.26,17
+10.85,Regular,0.066,Baking Goods,143.92,OUT004,Medium,Tier 2,Supermarket Type2,2981.2,17
+14.22,No Sugar,0.08,Health and Hygiene,181.36,OUT001,High,Tier 2,Supermarket Type1,4508.7,39
+11.24,No Sugar,0.014,Household,143.02,OUT004,Medium,Tier 2,Supermarket Type2,3050.9,17
+14.19,Regular,0.182,Baking Goods,141.96,OUT004,Medium,Tier 2,Supermarket Type2,3697.58,17
+14.85,Low Sugar,0.113,Snack Foods,177.8,OUT002,Small,Tier 3,Food Mart,1766.25,28
+11.26,Low Sugar,0.011,Snack Foods,169.23,OUT004,Medium,Tier 2,Supermarket Type2,3591.63,17
+15.28,No Sugar,0.061,Household,179.62,OUT001,High,Tier 2,Supermarket Type1,4714.58,39
+8.81,Low Sugar,0.157,Snack Foods,167.03,OUT004,Medium,Tier 2,Supermarket Type2,2993.9,17
+14.2,Low Sugar,0.072,Fruits and Vegetables,166.09,OUT001,High,Tier 2,Supermarket Type1,4193.41,39
+10.98,Low Sugar,0.168,Meat,115.45,OUT001,High,Tier 2,Supermarket Type1,2428.1,39
+11.15,Low Sugar,0.038,Starchy Foods,155.99,OUT004,Medium,Tier 2,Supermarket Type2,3297.95,17
+14.07,Low Sugar,0.074,Frozen Foods,155.36,OUT004,Medium,Tier 2,Supermarket Type2,3944.98,17
+13.13,Regular,0.014,Fruits and Vegetables,131.47,OUT003,Medium,Tier 1,Departmental Store,6657.74,27
+15.65,Regular,0.093,Frozen Foods,184.74,OUT001,High,Tier 2,Supermarket Type1,4902.42,39
+14.12,Low Sugar,0.05,Breads,165.3,OUT001,High,Tier 2,Supermarket Type1,4159.11,39
+12.08,Low Sugar,0.034,Fruits and Vegetables,131.77,OUT004,Medium,Tier 2,Supermarket Type2,3011.49,17
+14.8,Low Sugar,0.017,Snack Foods,177.73,OUT001,High,Tier 2,Supermarket Type1,4567.8,39
+10.88,Low Sugar,0.058,Snack Foods,226.59,OUT001,High,Tier 2,Supermarket Type1,4680.73,39
+12.4,No Sugar,0.116,Health and Hygiene,151.96,OUT004,Medium,Tier 2,Supermarket Type2,3496.02,17
+10.63,No Sugar,0.034,Health and Hygiene,194.38,OUT004,Medium,Tier 2,Supermarket Type2,3964.22,17
+13.56,Regular,0.076,Fruits and Vegetables,143.3,OUT004,Medium,Tier 2,Supermarket Type2,3580.89,17
+13.35,No Sugar,0.149,Household,150.59,OUT004,Medium,Tier 2,Supermarket Type2,3683.78,17
+12.16,Regular,0.03,Soft Drinks,158.08,OUT004,Medium,Tier 2,Supermarket Type2,3568.45,17
+13.38,Low Sugar,0.151,Frozen Foods,130.51,OUT004,Medium,Tier 2,Supermarket Type2,3278.55,17
+13.31,Low Sugar,0.066,Fruits and Vegetables,162.29,OUT004,Medium,Tier 2,Supermarket Type2,3914.8,17
+13.7,Low Sugar,0.07,Snack Foods,183.45,OUT003,Medium,Tier 1,Departmental Store,4435.82,27
+9.17,Low Sugar,0.027,Frozen Foods,93.63,OUT002,Small,Tier 3,Food Mart,1573.4,28
+10.37,Low Sugar,0.112,Canned,146.48,OUT004,Medium,Tier 2,Supermarket Type2,2926.74,17
+16.92,Regular,0.041,Snack Foods,178.04,OUT003,Medium,Tier 1,Departmental Store,5052.47,27
+10.49,Regular,0.027,Canned,138.04,OUT004,Medium,Tier 2,Supermarket Type2,2781.03,17
+14.51,Low Sugar,0.067,Frozen Foods,182.65,OUT001,High,Tier 2,Supermarket Type1,4600.85,39
+13.93,Low Sugar,0.031,Soft Drinks,164.12,OUT001,High,Tier 2,Supermarket Type1,4092.54,39
+12.39,Regular,0.102,Soft Drinks,164.12,OUT004,Medium,Tier 2,Supermarket Type2,3743.0,17
+15.28,Low Sugar,0.027,Frozen Foods,123.04,OUT004,Medium,Tier 2,Supermarket Type2,3555.93,17
+11.57,No Sugar,0.041,Health and Hygiene,112.41,OUT004,Medium,Tier 2,Supermarket Type2,2500.33,17
+14.58,Low Sugar,0.052,Frozen Foods,136.64,OUT004,Medium,Tier 2,Supermarket Type2,3676.97,17
+11.85,Regular,0.03,Soft Drinks,128.03,OUT004,Medium,Tier 2,Supermarket Type2,2882.75,17
+12.28,Regular,0.171,Baking Goods,141.96,OUT004,Medium,Tier 2,Supermarket Type2,3265.24,17
+13.9,Low Sugar,0.035,Dairy,168.12,OUT001,High,Tier 2,Supermarket Type1,4166.58,39
+12.3,No Sugar,0.081,Household,144.8,OUT004,Medium,Tier 2,Supermarket Type2,3327.0,17
+14.58,No Sugar,0.295,Health and Hygiene,161.96,OUT001,High,Tier 2,Supermarket Type1,4195.39,39
+10.82,Regular,0.073,Frozen Foods,106.25,OUT002,Small,Tier 3,Food Mart,2204.44,28
+13.48,Regular,0.129,Frozen Foods,142.83,OUT004,Medium,Tier 2,Supermarket Type2,3554.49,17
+14.63,Low Sugar,0.054,Soft Drinks,178.27,OUT001,High,Tier 2,Supermarket Type1,4539.73,39
+11.89,No Sugar,0.072,Household,159.91,OUT004,Medium,Tier 2,Supermarket Type2,3543.47,17
+13.42,Regular,0.041,Breakfast,95.92,OUT004,Medium,Tier 2,Supermarket Type2,2579.79,17
+12.61,Low Sugar,0.085,Soft Drinks,163.98,OUT004,Medium,Tier 2,Supermarket Type2,3789.5,17
+13.04,Low Sugar,0.172,Breads,154.12,OUT004,Medium,Tier 2,Supermarket Type2,3686.22,17
+7.59,Regular,0.191,Fruits and Vegetables,176.98,OUT004,Medium,Tier 2,Supermarket Type2,2922.12,17
+12.62,No Sugar,0.117,Health and Hygiene,195.81,OUT003,Medium,Tier 1,Departmental Store,4443.45,27
+13.33,Regular,0.048,Baking Goods,173.82,OUT001,High,Tier 2,Supermarket Type1,4154.08,39
+14.33,Regular,0.098,Meat,194.7,OUT001,High,Tier 2,Supermarket Type1,3721.52,39
+15.77,Regular,0.035,Snack Foods,209.79,OUT003,Medium,Tier 1,Departmental Store,5441.0,27
+12.89,Regular,0.064,Frozen Foods,192.2,OUT003,Medium,Tier 1,Departmental Store,5326.02,27
+12.41,Low Sugar,0.138,Soft Drinks,120.58,OUT004,Medium,Tier 2,Supermarket Type2,2856.87,17
+10.78,Low Sugar,0.08,Dairy,155.54,OUT004,Medium,Tier 2,Supermarket Type2,3203.19,17
+14.76,Low Sugar,0.011,Meat,167.31,OUT003,Medium,Tier 1,Departmental Store,4344.66,27
+11.12,Low Sugar,0.024,Fruits and Vegetables,168.69,OUT004,Medium,Tier 2,Supermarket Type2,3550.62,17
+11.29,Low Sugar,0.071,Dairy,154.96,OUT004,Medium,Tier 2,Supermarket Type2,3307.82,17
+10.22,Low Sugar,0.175,Soft Drinks,136.32,OUT004,Medium,Tier 2,Supermarket Type2,2684.44,17
+13.37,Low Sugar,0.045,Soft Drinks,127.97,OUT004,Medium,Tier 2,Supermarket Type2,3225.96,17
+10.42,Low Sugar,0.039,Fruits and Vegetables,132.7,OUT004,Medium,Tier 2,Supermarket Type2,2655.46,17
+11.96,Regular,0.05,Snack Foods,147.06,OUT004,Medium,Tier 2,Supermarket Type2,3297.14,17
+12.16,No Sugar,0.039,Household,124.07,OUT004,Medium,Tier 2,Supermarket Type2,2872.23,17
+14.71,Low Sugar,0.016,Snack Foods,154.94,OUT001,High,Tier 2,Supermarket Type1,4080.58,39
+15.22,Regular,0.015,Fruits and Vegetables,158.64,OUT003,Medium,Tier 1,Departmental Store,4271.53,27
+14.42,No Sugar,0.072,Health and Hygiene,179.01,OUT001,High,Tier 2,Supermarket Type1,4507.97,39
+12.66,Low Sugar,0.027,Frozen Foods,117.08,OUT004,Medium,Tier 2,Supermarket Type2,2842.4,17
+14.46,No Sugar,0.026,Household,161.98,OUT001,High,Tier 2,Supermarket Type1,4167.03,39
+12.89,Low Sugar,0.059,Hard Drinks,148.99,OUT004,Medium,Tier 2,Supermarket Type2,3547.69,17
+10.85,Low Sugar,0.097,Frozen Foods,138.56,OUT004,Medium,Tier 2,Supermarket Type2,2873.46,17
+7.62,Low Sugar,0.136,Canned,62.17,OUT002,Small,Tier 3,Food Mart,579.78,28
+13.51,Low Sugar,0.212,Snack Foods,143.48,OUT004,Medium,Tier 2,Supermarket Type2,3573.67,17
+13.68,Low Sugar,0.137,Baking Goods,97.26,OUT004,Medium,Tier 2,Supermarket Type2,2667.17,17
+12.68,Regular,0.021,Frozen Foods,129.01,OUT004,Medium,Tier 2,Supermarket Type2,3090.87,17
+14.58,No Sugar,0.058,Household,155.51,OUT001,High,Tier 2,Supermarket Type1,4061.96,39
+11.59,Regular,0.091,Dairy,145.79,OUT004,Medium,Tier 2,Supermarket Type2,3188.61,17
+12.71,Low Sugar,0.085,Dairy,114.22,OUT004,Medium,Tier 2,Supermarket Type2,2794.23,17
+10.33,Regular,0.032,Snack Foods,159.28,OUT004,Medium,Tier 2,Supermarket Type2,3178.88,17
+13.61,Low Sugar,0.022,Baking Goods,131.96,OUT004,Medium,Tier 2,Supermarket Type2,3361.72,17
+17.79,Low Sugar,0.049,Dairy,164.33,OUT003,Medium,Tier 1,Departmental Store,4967.28,27
+18.04,No Sugar,0.054,Others,223.08,OUT003,Medium,Tier 1,Departmental Store,6227.39,27
+11.13,Low Sugar,0.052,Dairy,135.49,OUT004,Medium,Tier 2,Supermarket Type2,2872.85,17
+16.3,Low Sugar,0.014,Snack Foods,171.06,OUT001,High,Tier 2,Supermarket Type1,4768.37,39
+12.66,Regular,0.153,Canned,151.92,OUT004,Medium,Tier 2,Supermarket Type2,3554.37,17
+15.33,No Sugar,0.04,Health and Hygiene,154.47,OUT003,Medium,Tier 1,Departmental Store,4209.71,27
+12.72,Low Sugar,0.151,Snack Foods,127.92,OUT004,Medium,Tier 2,Supermarket Type2,3078.39,17
+14.32,Low Sugar,0.013,Baking Goods,182.57,OUT001,High,Tier 2,Supermarket Type1,4556.25,39
+11.22,Regular,0.071,Frozen Foods,159.34,OUT004,Medium,Tier 2,Supermarket Type2,3380.93,17
+9.05,Low Sugar,0.073,Fruits and Vegetables,106.63,OUT002,Small,Tier 3,Food Mart,1812.02,28
+11.16,Low Sugar,0.04,Snack Foods,126.22,OUT004,Medium,Tier 2,Supermarket Type2,2689.49,17
+9.1,Regular,0.067,Dairy,189.09,OUT004,Medium,Tier 2,Supermarket Type2,3511.32,17
+11.08,Low Sugar,0.031,Snack Foods,174.83,OUT004,Medium,Tier 2,Supermarket Type2,3666.53,17
+12.95,Regular,0.076,Meat,155.55,OUT004,Medium,Tier 2,Supermarket Type2,3695.51,17
+9.91,No Sugar,0.038,Health and Hygiene,68.04,OUT002,Small,Tier 3,Food Mart,1216.1,28
+15.62,Low Sugar,0.038,Starchy Foods,125.82,OUT004,Medium,Tier 2,Supermarket Type2,3690.95,17
+10.77,Low Sugar,0.12,Baking Goods,99.48,OUT002,Small,Tier 3,Food Mart,2055.18,28
+11.11,Low Sugar,0.138,Baking Goods,152.91,OUT004,Medium,Tier 2,Supermarket Type2,3224.02,17
+10.32,Low Sugar,0.009,Fruits and Vegetables,165.42,OUT004,Medium,Tier 2,Supermarket Type2,3303.14,17
+8.71,Regular,0.018,Fruits and Vegetables,121.69,OUT002,Small,Tier 3,Food Mart,775.74,28
+9.66,No Sugar,0.177,Household,86.2,OUT002,Small,Tier 3,Food Mart,1531.37,28
+11.71,No Sugar,0.061,Health and Hygiene,165.52,OUT004,Medium,Tier 2,Supermarket Type2,3617.53,17
+11.18,No Sugar,0.096,Health and Hygiene,127.62,OUT004,Medium,Tier 2,Supermarket Type2,2722.95,17
+12.6,Low Sugar,0.047,Fruits and Vegetables,130.67,OUT004,Medium,Tier 2,Supermarket Type2,3105.79,17
+13.77,Low Sugar,0.107,Breakfast,130.94,OUT004,Medium,Tier 2,Supermarket Type2,3375.92,17
+14.91,Low Sugar,0.1,Meat,166.86,OUT003,Medium,Tier 1,Departmental Store,4368.82,27
+11.44,Low Sugar,0.042,Canned,153.91,OUT004,Medium,Tier 2,Supermarket Type2,3320.72,17
+13.71,Low Sugar,0.021,Fruits and Vegetables,137.33,OUT004,Medium,Tier 2,Supermarket Type2,3493.51,17
+9.99,Low Sugar,0.04,Hard Drinks,97.16,OUT002,Small,Tier 3,Food Mart,1832.13,28
+13.89,Low Sugar,0.015,Frozen Foods,196.66,OUT001,High,Tier 2,Supermarket Type1,4748.77,39
+10.46,No Sugar,0.118,Household,155.19,OUT002,Small,Tier 3,Food Mart,1112.21,28
+8.43,No Sugar,0.026,Health and Hygiene,137.92,OUT001,High,Tier 2,Supermarket Type1,2312.43,39
+12.15,Low Sugar,0.081,Starchy Foods,78.82,OUT002,Small,Tier 3,Food Mart,1943.02,28
+12.05,Low Sugar,0.05,Frozen Foods,170.25,OUT004,Medium,Tier 2,Supermarket Type2,3791.25,17
+12.51,No Sugar,0.039,Health and Hygiene,160.5,OUT004,Medium,Tier 2,Supermarket Type2,3697.44,17
+14.17,Low Sugar,0.038,Snack Foods,125.58,OUT004,Medium,Tier 2,Supermarket Type2,3357.59,17
+13.47,Low Sugar,0.096,Baking Goods,145.93,OUT004,Medium,Tier 2,Supermarket Type2,3615.73,17
+15.27,Low Sugar,0.024,Fruits and Vegetables,181.18,OUT001,High,Tier 2,Supermarket Type1,4743.21,39
+13.53,Regular,0.048,Snack Foods,193.39,OUT001,High,Tier 2,Supermarket Type1,4599.89,39
+13.78,No Sugar,0.012,Others,154.9,OUT004,Medium,Tier 2,Supermarket Type2,3868.43,17
+14.99,Regular,0.061,Fruits and Vegetables,150.68,OUT001,High,Tier 2,Supermarket Type1,4055.15,39
+14.57,Low Sugar,0.06,Snack Foods,161.93,OUT001,High,Tier 2,Supermarket Type1,4191.84,39
+14.61,Regular,0.014,Breakfast,144.48,OUT004,Medium,Tier 2,Supermarket Type2,3842.24,17
+18.32,Low Sugar,0.057,Seafood,164.13,OUT003,Medium,Tier 1,Departmental Store,5083.79,27
+16.15,Regular,0.185,Canned,168.51,OUT001,High,Tier 2,Supermarket Type1,4684.13,39
+14.47,Low Sugar,0.03,Snack Foods,114.68,OUT004,Medium,Tier 2,Supermarket Type2,3203.09,17
+12.99,No Sugar,0.112,Others,114.51,OUT004,Medium,Tier 2,Supermarket Type2,2863.54,17
+11.64,Low Sugar,0.097,Snack Foods,78.01,OUT002,Small,Tier 3,Food Mart,1811.7,28
+7.27,Regular,0.025,Baking Goods,129.68,OUT002,Small,Tier 3,Food Mart,1882.37,28
+13.19,Low Sugar,0.169,Snack Foods,146.81,OUT004,Medium,Tier 2,Supermarket Type2,3570.05,17
+12.71,Low Sugar,0.072,Snack Foods,171.51,OUT004,Medium,Tier 2,Supermarket Type2,3967.02,17
+9.01,Low Sugar,0.22,Meat,135.19,OUT002,Small,Tier 3,Food Mart,1748.5,28
+14.1,Low Sugar,0.026,Dairy,95.96,OUT004,Medium,Tier 2,Supermarket Type2,2736.45,17
+14.92,Low Sugar,0.108,Frozen Foods,175.43,OUT001,High,Tier 2,Supermarket Type1,4545.78,39
+11.76,Low Sugar,0.128,Soft Drinks,132.95,OUT004,Medium,Tier 2,Supermarket Type2,2962.38,17
+10.72,No Sugar,0.031,Health and Hygiene,168.18,OUT004,Medium,Tier 2,Supermarket Type2,3448.24,17
+13.33,Low Sugar,0.174,Frozen Foods,112.98,OUT004,Medium,Tier 2,Supermarket Type2,2909.88,17
+11.56,Low Sugar,0.086,Fruits and Vegetables,141.52,OUT004,Medium,Tier 2,Supermarket Type2,3094.56,17
+8.26,Low Sugar,0.042,Meat,94.14,OUT002,Small,Tier 3,Food Mart,1377.41,28
+13.61,Low Sugar,0.097,Fruits and Vegetables,108.82,OUT004,Medium,Tier 2,Supermarket Type2,2887.11,17
+14.04,Low Sugar,0.032,Frozen Foods,108.88,OUT004,Medium,Tier 2,Supermarket Type2,2985.23,17
+14.74,Low Sugar,0.069,Hard Drinks,162.03,OUT003,Medium,Tier 1,Departmental Store,4232.36,27
+15.27,Low Sugar,0.013,Dairy,166.56,OUT003,Medium,Tier 1,Departmental Store,4445.21,27
+9.33,Low Sugar,0.056,Breads,136.9,OUT001,High,Tier 2,Supermarket Type1,2494.48,39
+14.03,No Sugar,0.016,Household,157.94,OUT004,Medium,Tier 2,Supermarket Type2,3988.7,17
+12.32,Low Sugar,0.01,Frozen Foods,160.78,OUT004,Medium,Tier 2,Supermarket Type2,3659.31,17
+15.05,Low Sugar,0.1,Canned,229.89,OUT003,Medium,Tier 1,Departmental Store,5690.53,27
+11.36,Low Sugar,0.013,Canned,169.53,OUT004,Medium,Tier 2,Supermarket Type2,3622.33,17
+17.48,Regular,0.111,Hard Drinks,167.59,OUT003,Medium,Tier 1,Departmental Store,4965.91,27
+13.11,Regular,0.11,Fruits and Vegetables,176.0,OUT001,High,Tier 2,Supermarket Type1,4148.58,39
+13.51,Low Sugar,0.082,Fruits and Vegetables,142.16,OUT004,Medium,Tier 2,Supermarket Type2,3547.98,17
+13.42,Low Sugar,0.038,Fruits and Vegetables,145.67,OUT004,Medium,Tier 2,Supermarket Type2,3598.35,17
+12.66,Regular,0.066,Fruits and Vegetables,117.41,OUT004,Medium,Tier 2,Supermarket Type2,2849.03,17
+11.81,Low Sugar,0.058,Breads,111.58,OUT004,Medium,Tier 2,Supermarket Type2,2537.41,17
+11.39,Low Sugar,0.033,Fruits and Vegetables,127.97,OUT004,Medium,Tier 2,Supermarket Type2,2777.27,17
+12.44,Low Sugar,0.047,Baking Goods,124.29,OUT003,Medium,Tier 1,Departmental Store,6383.57,27
+10.49,Regular,0.074,Meat,122.71,OUT001,High,Tier 2,Supermarket Type1,2467.09,39
+11.96,No Sugar,0.078,Household,172.14,OUT004,Medium,Tier 2,Supermarket Type2,3811.6,17
+11.66,Low Sugar,0.055,Fruits and Vegetables,147.97,OUT004,Medium,Tier 2,Supermarket Type2,3248.04,17
+13.16,Regular,0.1,Canned,166.38,OUT004,Medium,Tier 2,Supermarket Type2,3964.74,17
+10.61,No Sugar,0.065,Household,126.3,OUT004,Medium,Tier 2,Supermarket Type2,2566.88,17
+13.41,Low Sugar,0.128,Canned,178.88,OUT003,Medium,Tier 1,Departmental Store,4276.47,27
+9.67,No Sugar,0.082,Household,104.08,OUT002,Small,Tier 3,Food Mart,1900.56,28
+13.84,Regular,0.045,Starchy Foods,202.23,OUT001,High,Tier 2,Supermarket Type1,4851.45,39
+15.09,Regular,0.037,Snack Foods,128.49,OUT004,Medium,Tier 2,Supermarket Type2,3624.0,17
+12.87,No Sugar,0.055,Health and Hygiene,148.99,OUT004,Medium,Tier 2,Supermarket Type2,3542.73,17
+17.11,Regular,0.163,Baking Goods,130.49,OUT001,High,Tier 2,Supermarket Type1,4122.51,39
+10.29,Low Sugar,0.027,Snack Foods,150.71,OUT004,Medium,Tier 2,Supermarket Type2,2994.8,17
+11.67,No Sugar,0.039,Household,167.34,OUT004,Medium,Tier 2,Supermarket Type2,3646.79,17
+10.36,Regular,0.089,Frozen Foods,138.92,OUT004,Medium,Tier 2,Supermarket Type2,2768.51,17
+13.64,Regular,0.016,Dairy,155.99,OUT004,Medium,Tier 2,Supermarket Type2,3859.26,17
+15.62,Low Sugar,0.164,Frozen Foods,133.28,OUT004,Medium,Tier 2,Supermarket Type2,3843.39,17
+14.24,Regular,0.108,Soft Drinks,161.97,OUT001,High,Tier 2,Supermarket Type1,4118.31,39
+16.21,No Sugar,0.122,Household,186.92,OUT003,Medium,Tier 1,Departmental Store,5072.43,27
+11.19,No Sugar,0.038,Health and Hygiene,159.95,OUT004,Medium,Tier 2,Supermarket Type2,3386.16,17
+13.34,Low Sugar,0.039,Frozen Foods,150.81,OUT004,Medium,Tier 2,Supermarket Type2,3686.47,17
+13.33,Low Sugar,0.129,Fruits and Vegetables,144.62,OUT004,Medium,Tier 2,Supermarket Type2,3557.11,17
+12.1,Low Sugar,0.031,Canned,122.32,OUT004,Medium,Tier 2,Supermarket Type2,2822.27,17
+17.11,Regular,0.065,Snack Foods,180.36,OUT003,Medium,Tier 1,Departmental Store,5141.68,27
+12.42,No Sugar,0.061,Household,164.19,OUT004,Medium,Tier 2,Supermarket Type2,3751.21,17
+13.61,Regular,0.056,Fruits and Vegetables,135.29,OUT004,Medium,Tier 2,Supermarket Type2,3430.23,17
+12.29,Low Sugar,0.047,Breakfast,123.19,OUT004,Medium,Tier 2,Supermarket Type2,2883.44,17
+10.02,Regular,0.132,Snack Foods,120.83,OUT001,High,Tier 2,Supermarket Type1,2322.64,39
+5.72,Regular,0.054,Fruits and Vegetables,73.62,OUT002,Small,Tier 3,Food Mart,384.07,28
+14.21,Regular,0.035,Fruits and Vegetables,127.81,OUT004,Medium,Tier 2,Supermarket Type2,3412.28,17
+12.92,Low Sugar,0.028,Fruits and Vegetables,191.12,OUT003,Medium,Tier 1,Departmental Store,4416.12,27
+9.84,Regular,0.102,Baking Goods,136.6,OUT004,Medium,Tier 2,Supermarket Type2,2604.08,17
+11.3,Low Sugar,0.039,Dairy,102.35,OUT002,Small,Tier 3,Food Mart,2232.87,28
+14.83,Low Sugar,0.157,Snack Foods,189.19,OUT001,High,Tier 2,Supermarket Type1,4807.21,39
+12.86,Low Sugar,0.062,Fruits and Vegetables,139.32,OUT004,Medium,Tier 2,Supermarket Type2,3341.99,17
+11.58,Regular,0.228,Soft Drinks,152.36,OUT004,Medium,Tier 2,Supermarket Type2,3321.03,17
+12.37,Regular,0.049,Baking Goods,181.19,OUT003,Medium,Tier 1,Departmental Store,5533.8,27
+10.54,Low Sugar,0.076,Fruits and Vegetables,113.56,OUT002,Small,Tier 3,Food Mart,2291.35,28
+15.26,Low Sugar,0.168,Baking Goods,173.03,OUT001,High,Tier 2,Supermarket Type1,4574.15,39
+11.99,Low Sugar,0.013,Dairy,138.93,OUT004,Medium,Tier 2,Supermarket Type2,3137.01,17
+13.0,Regular,0.054,Fruits and Vegetables,166.75,OUT004,Medium,Tier 2,Supermarket Type2,3934.53,17
+14.8,Regular,0.106,Dairy,160.86,OUT003,Medium,Tier 1,Departmental Store,4221.33,27
+14.52,No Sugar,0.046,Others,186.63,OUT001,High,Tier 2,Supermarket Type1,4685.6,39
+12.21,Low Sugar,0.049,Fruits and Vegetables,147.84,OUT004,Medium,Tier 2,Supermarket Type2,3370.02,17
+10.87,Regular,0.027,Breads,132.68,OUT004,Medium,Tier 2,Supermarket Type2,2756.8,17
+11.47,No Sugar,0.09,Health and Hygiene,157.41,OUT004,Medium,Tier 2,Supermarket Type2,3397.82,17
+10.67,Low Sugar,0.079,Canned,124.92,OUT004,Medium,Tier 2,Supermarket Type2,2552.85,17
+12.96,No Sugar,0.071,Household,102.52,OUT004,Medium,Tier 2,Supermarket Type2,2612.98,17
+15.21,Regular,0.035,Canned,159.27,OUT001,High,Tier 2,Supermarket Type1,3629.33,39
+8.34,Low Sugar,0.069,Baking Goods,124.99,OUT002,Small,Tier 3,Food Mart,2026.86,28
+16.23,Low Sugar,0.007,Fruits and Vegetables,152.46,OUT003,Medium,Tier 1,Departmental Store,4372.14,27
+9.88,Low Sugar,0.046,Fruits and Vegetables,168.91,OUT004,Medium,Tier 2,Supermarket Type2,3273.45,17
+11.8,Low Sugar,0.014,Fruits and Vegetables,176.73,OUT004,Medium,Tier 2,Supermarket Type2,3868.99,17
+10.64,No Sugar,0.123,Household,180.89,OUT004,Medium,Tier 2,Supermarket Type2,3692.04,17
+12.39,Low Sugar,0.076,Frozen Foods,184.01,OUT001,High,Tier 2,Supermarket Type1,4151.41,39
+15.01,Low Sugar,0.033,Dairy,190.45,OUT001,High,Tier 2,Supermarket Type1,4875.01,39
+14.76,Low Sugar,0.113,Dairy,129.19,OUT004,Medium,Tier 2,Supermarket Type2,3565.58,17
+10.57,Regular,0.065,Soft Drinks,128.59,OUT004,Medium,Tier 2,Supermarket Type2,2605.51,17
+11.91,Regular,0.174,Meat,101.32,OUT001,High,Tier 2,Supermarket Type1,3455.38,39
+14.1,Regular,0.006,Snack Foods,210.11,OUT003,Medium,Tier 1,Departmental Store,5070.81,27
+15.7,Low Sugar,0.154,Frozen Foods,180.84,OUT001,High,Tier 2,Supermarket Type1,4833.0,39
+15.49,Low Sugar,0.149,Fruits and Vegetables,166.24,OUT003,Medium,Tier 1,Departmental Store,4488.65,27
+12.31,Low Sugar,0.012,Frozen Foods,137.8,OUT004,Medium,Tier 2,Supermarket Type2,3188.01,17
+11.43,No Sugar,0.057,Others,104.83,OUT001,High,Tier 2,Supermarket Type1,2314.66,39
+12.94,Regular,0.133,Fruits and Vegetables,156.64,OUT004,Medium,Tier 2,Supermarket Type2,3714.37,17
+8.03,Regular,0.076,Soft Drinks,77.05,OUT002,Small,Tier 3,Food Mart,976.77,28
+10.94,Low Sugar,0.026,Frozen Foods,119.27,OUT001,High,Tier 2,Supermarket Type1,2499.11,39
+9.98,Regular,0.092,Snack Foods,135.0,OUT004,Medium,Tier 2,Supermarket Type2,2602.34,17
+10.9,Low Sugar,0.029,Dairy,131.3,OUT004,Medium,Tier 2,Supermarket Type2,2735.89,17
+12.06,Low Sugar,0.082,Dairy,141.87,OUT004,Medium,Tier 2,Supermarket Type2,3213.52,17
+11.2,No Sugar,0.083,Household,117.24,OUT004,Medium,Tier 2,Supermarket Type2,2516.49,17
+9.76,Regular,0.015,Snack Foods,139.5,OUT002,Small,Tier 3,Food Mart,1474.53,28
+11.12,Low Sugar,0.119,Soft Drinks,102.57,OUT002,Small,Tier 3,Food Mart,2196.18,28
+15.23,Low Sugar,0.047,Soft Drinks,158.9,OUT003,Medium,Tier 1,Departmental Store,4279.28,27
+14.66,Regular,0.023,Snack Foods,171.91,OUT003,Medium,Tier 1,Departmental Store,4415.01,27
+11.05,No Sugar,0.12,Health and Hygiene,147.05,OUT004,Medium,Tier 2,Supermarket Type2,3506.4,17
+13.22,Regular,0.122,Baking Goods,127.13,OUT004,Medium,Tier 2,Supermarket Type2,3174.35,17
+11.54,Low Sugar,0.03,Snack Foods,177.65,OUT004,Medium,Tier 2,Supermarket Type2,3827.82,17
+12.14,Low Sugar,0.027,Snack Foods,140.48,OUT004,Medium,Tier 2,Supermarket Type2,3202.22,17
+11.69,Low Sugar,0.12,Dairy,161.38,OUT004,Medium,Tier 2,Supermarket Type2,3528.09,17
+10.92,Regular,0.035,Fruits and Vegetables,96.86,OUT002,Small,Tier 3,Food Mart,2034.84,28
+11.69,Low Sugar,0.068,Canned,101.83,OUT001,High,Tier 2,Supermarket Type1,2309.79,39
+15.95,No Sugar,0.139,Household,135.72,OUT004,Medium,Tier 2,Supermarket Type2,3967.29,17
+10.41,No Sugar,0.035,Household,134.92,OUT004,Medium,Tier 2,Supermarket Type2,2699.44,17
+10.09,Low Sugar,0.038,Frozen Foods,129.34,OUT004,Medium,Tier 2,Supermarket Type2,2511.29,17
+12.03,No Sugar,0.084,Household,127.16,OUT004,Medium,Tier 2,Supermarket Type2,2905.27,17
+13.21,No Sugar,0.097,Household,144.52,OUT004,Medium,Tier 2,Supermarket Type2,3528.18,17
+14.2,Regular,0.128,Frozen Foods,181.79,OUT001,High,Tier 2,Supermarket Type1,4513.23,39
+13.46,No Sugar,0.138,Health and Hygiene,143.31,OUT004,Medium,Tier 2,Supermarket Type2,3559.32,17
+10.74,Regular,0.12,Canned,139.39,OUT004,Medium,Tier 2,Supermarket Type2,2865.21,17
+16.1,Low Sugar,0.05,Dairy,172.97,OUT001,High,Tier 2,Supermarket Type1,4764.19,39
+15.83,Low Sugar,0.065,Frozen Foods,180.77,OUT001,High,Tier 2,Supermarket Type1,4861.63,39
+10.24,Low Sugar,0.077,Dairy,123.65,OUT001,High,Tier 2,Supermarket Type1,2428.58,39
+16.03,Low Sugar,0.064,Meat,194.26,OUT003,Medium,Tier 1,Departmental Store,5184.12,27
+13.17,Regular,0.035,Frozen Foods,160.78,OUT004,Medium,Tier 2,Supermarket Type2,3851.49,17
+8.49,Low Sugar,0.199,Baking Goods,138.99,OUT001,High,Tier 2,Supermarket Type1,2347.94,39
+11.04,Low Sugar,0.128,Soft Drinks,149.87,OUT004,Medium,Tier 2,Supermarket Type2,3146.18,17
+13.45,Regular,0.076,Soft Drinks,145.41,OUT004,Medium,Tier 2,Supermarket Type2,3600.16,17
+11.91,Low Sugar,0.036,Starchy Foods,147.64,OUT004,Medium,Tier 2,Supermarket Type2,3297.33,17
+13.58,No Sugar,0.04,Health and Hygiene,144.93,OUT004,Medium,Tier 2,Supermarket Type2,3619.95,17
+12.48,Low Sugar,0.108,Fruits and Vegetables,109.75,OUT004,Medium,Tier 2,Supermarket Type2,2650.51,17
+14.44,No Sugar,0.097,Household,218.42,OUT003,Medium,Tier 1,Departmental Store,5317.77,27
+12.24,Low Sugar,0.136,Fruits and Vegetables,147.39,OUT004,Medium,Tier 2,Supermarket Type2,3366.85,17
+8.04,Low Sugar,0.014,Canned,145.35,OUT001,High,Tier 2,Supermarket Type1,2377.27,39
+13.7,No Sugar,0.116,Household,131.24,OUT004,Medium,Tier 2,Supermarket Type2,3367.55,17
+14.67,Regular,0.095,Baking Goods,123.96,OUT004,Medium,Tier 2,Supermarket Type2,3437.71,17
+10.29,No Sugar,0.174,Health and Hygiene,100.03,OUT002,Small,Tier 3,Food Mart,1957.85,28
+9.67,Low Sugar,0.049,Snack Foods,99.84,OUT003,Medium,Tier 1,Departmental Store,6149.63,27
+12.51,Low Sugar,0.043,Dairy,102.78,OUT004,Medium,Tier 2,Supermarket Type2,2516.6,17
+11.79,Low Sugar,0.009,Dairy,114.28,OUT004,Medium,Tier 2,Supermarket Type2,2587.35,17
+12.42,Regular,0.091,Breakfast,141.97,OUT004,Medium,Tier 2,Supermarket Type2,3459.19,17
+10.92,Low Sugar,0.023,Soft Drinks,114.87,OUT001,High,Tier 2,Supermarket Type1,2403.87,39
+11.75,No Sugar,0.086,Health and Hygiene,122.61,OUT004,Medium,Tier 2,Supermarket Type2,2749.81,17
+12.33,Regular,0.16,Meat,111.53,OUT004,Medium,Tier 2,Supermarket Type2,2653.7,17
+12.79,Regular,0.174,Meat,162.29,OUT004,Medium,Tier 2,Supermarket Type2,3797.06,17
+17.87,Low Sugar,0.033,Soft Drinks,207.66,OUT003,Medium,Tier 1,Departmental Store,5872.89,27
+11.07,Low Sugar,0.086,Soft Drinks,88.12,OUT002,Small,Tier 3,Food Mart,1889.31,28
+12.76,Low Sugar,0.16,Fruits and Vegetables,160.7,OUT004,Medium,Tier 2,Supermarket Type2,3756.41,17
+12.76,Low Sugar,0.017,Meat,192.15,OUT003,Medium,Tier 1,Departmental Store,4400.67,27
+17.72,Low Sugar,0.086,Snack Foods,192.25,OUT003,Medium,Tier 1,Departmental Store,5524.23,27
+15.99,Regular,0.064,Snack Foods,172.33,OUT001,High,Tier 2,Supermarket Type1,4724.83,39
+20.35,Low Sugar,0.022,Snack Foods,156.56,OUT003,Medium,Tier 1,Departmental Store,5387.26,27
+15.22,Regular,0.098,Frozen Foods,172.71,OUT001,High,Tier 2,Supermarket Type1,4558.1,39
+12.04,No Sugar,0.064,Health and Hygiene,99.19,OUT001,High,Tier 2,Supermarket Type1,2336.73,39
+8.91,No Sugar,0.063,Others,118.37,OUT002,Small,Tier 3,Food Mart,2022.01,28
+14.22,Regular,0.027,Meat,170.66,OUT003,Medium,Tier 1,Departmental Store,4291.72,27
+11.4,No Sugar,0.126,Others,116.4,OUT004,Medium,Tier 2,Supermarket Type2,2543.72,17
+12.34,Low Sugar,0.168,Canned,156.47,OUT004,Medium,Tier 2,Supermarket Type2,3576.27,17
+17.21,Low Sugar,0.058,Meat,166.04,OUT003,Medium,Tier 1,Departmental Store,4871.7,27
+15.72,No Sugar,0.028,Health and Hygiene,147.45,OUT001,High,Tier 2,Supermarket Type1,4155.54,39
+11.32,Low Sugar,0.04,Snack Foods,170.2,OUT004,Medium,Tier 2,Supermarket Type2,3626.06,17
+13.18,Low Sugar,0.067,Snack Foods,136.11,OUT004,Medium,Tier 2,Supermarket Type2,3348.99,17
+12.1,Regular,0.019,Fruits and Vegetables,93.81,OUT002,Small,Tier 3,Food Mart,2239.64,28
+8.16,No Sugar,0.025,Household,104.51,OUT002,Small,Tier 3,Food Mart,1567.08,28
+13.13,Regular,0.03,Frozen Foods,165.99,OUT004,Medium,Tier 2,Supermarket Type2,3949.88,17
+16.29,Low Sugar,0.098,Frozen Foods,200.39,OUT003,Medium,Tier 1,Departmental Store,5366.59,27
+10.28,Regular,0.069,Dairy,130.75,OUT004,Medium,Tier 2,Supermarket Type2,2584.82,17
+16.9,No Sugar,0.054,Household,204.06,OUT003,Medium,Tier 1,Departmental Store,5574.4,27
+13.04,No Sugar,0.16,Household,134.52,OUT004,Medium,Tier 2,Supermarket Type2,3285.34,17
+9.92,Regular,0.039,Snack Foods,113.89,OUT002,Small,Tier 3,Food Mart,2158.36,28
+11.18,No Sugar,0.057,Health and Hygiene,141.09,OUT004,Medium,Tier 2,Supermarket Type2,2998.57,17
+13.3,Low Sugar,0.11,Meat,103.39,OUT004,Medium,Tier 2,Supermarket Type2,2705.73,17
+13.77,Low Sugar,0.108,Fruits and Vegetables,189.04,OUT001,High,Tier 2,Supermarket Type1,4565.13,39
+15.32,Low Sugar,0.031,Fruits and Vegetables,166.32,OUT003,Medium,Tier 1,Departmental Store,4451.33,27
+12.74,Regular,0.025,Snack Foods,121.39,OUT004,Medium,Tier 2,Supermarket Type2,2947.95,17
+13.1,Low Sugar,0.035,Meat,119.36,OUT004,Medium,Tier 2,Supermarket Type2,2989.0,17
+14.43,Low Sugar,0.068,Snack Foods,164.13,OUT003,Medium,Tier 1,Departmental Store,4205.09,27
+9.84,Low Sugar,0.043,Frozen Foods,138.63,OUT004,Medium,Tier 2,Supermarket Type2,2646.15,17
+15.74,Low Sugar,0.166,Meat,157.48,OUT003,Medium,Tier 1,Departmental Store,4364.62,27
+11.24,Low Sugar,0.026,Snack Foods,150.93,OUT004,Medium,Tier 2,Supermarket Type2,3213.79,17
+10.36,Low Sugar,0.042,Fruits and Vegetables,154.75,OUT004,Medium,Tier 2,Supermarket Type2,3092.11,17
+12.01,Low Sugar,0.043,Breads,134.66,OUT004,Medium,Tier 2,Supermarket Type2,3055.98,17
+14.43,Regular,0.108,Breakfast,159.35,OUT001,High,Tier 2,Supermarket Type1,4106.38,39
+13.21,Low Sugar,0.059,Soft Drinks,151.87,OUT004,Medium,Tier 2,Supermarket Type2,3677.56,17
+12.16,Low Sugar,0.084,Snack Foods,130.67,OUT004,Medium,Tier 2,Supermarket Type2,3006.41,17
+15.3,Low Sugar,0.112,Snack Foods,194.14,OUT003,Medium,Tier 1,Departmental Store,5014.31,27
+10.2,Low Sugar,0.073,Dairy,152.0,OUT004,Medium,Tier 2,Supermarket Type2,3000.24,17
+13.88,Regular,0.035,Fruits and Vegetables,124.77,OUT004,Medium,Tier 2,Supermarket Type2,3275.64,17
+14.62,Low Sugar,0.015,Meat,171.2,OUT003,Medium,Tier 1,Departmental Store,4392.14,27
+15.28,No Sugar,0.025,Household,117.06,OUT004,Medium,Tier 2,Supermarket Type2,3434.73,17
+10.99,Low Sugar,0.126,Frozen Foods,148.23,OUT004,Medium,Tier 2,Supermarket Type2,3100.94,17
+10.39,Regular,0.062,Snack Foods,148.13,OUT004,Medium,Tier 2,Supermarket Type2,2963.32,17
+12.47,Regular,0.013,Frozen Foods,156.41,OUT004,Medium,Tier 2,Supermarket Type2,3603.48,17
+11.95,Regular,0.112,Canned,146.29,OUT004,Medium,Tier 2,Supermarket Type2,2046.37,17
+12.54,Low Sugar,0.066,Fruits and Vegetables,124.0,OUT004,Medium,Tier 2,Supermarket Type2,2956.35,17
+12.74,No Sugar,0.085,Others,145.01,OUT004,Medium,Tier 2,Supermarket Type2,3432.06,17
+13.23,Low Sugar,0.104,Dairy,137.7,OUT004,Medium,Tier 2,Supermarket Type2,3393.33,17
+8.85,Regular,0.034,Snack Foods,104.51,OUT002,Small,Tier 3,Food Mart,1722.9,28
+14.32,Regular,0.128,Fruits and Vegetables,149.82,OUT004,Medium,Tier 2,Supermarket Type2,3886.98,17
+11.12,No Sugar,0.026,Household,104.77,OUT002,Small,Tier 3,Food Mart,2241.79,28
+14.29,Regular,0.086,Breads,173.39,OUT003,Medium,Tier 1,Departmental Store,4362.3,27
+16.17,Regular,0.022,Fruits and Vegetables,160.29,OUT001,High,Tier 2,Supermarket Type1,4519.33,39
+14.7,Low Sugar,0.178,Dairy,157.63,OUT001,High,Tier 2,Supermarket Type1,4133.49,39
+12.97,Regular,0.036,Snack Foods,157.12,OUT004,Medium,Tier 2,Supermarket Type2,3730.49,17
+14.35,Low Sugar,0.027,Baking Goods,135.3,OUT004,Medium,Tier 2,Supermarket Type2,3596.02,17
+8.52,Low Sugar,0.055,Soft Drinks,135.91,OUT002,Small,Tier 3,Food Mart,2290.82,28
+13.84,Regular,0.056,Meat,98.99,OUT004,Medium,Tier 2,Supermarket Type2,2738.56,17
+12.64,No Sugar,0.015,Health and Hygiene,163.81,OUT004,Medium,Tier 2,Supermarket Type2,3794.48,17
+12.21,No Sugar,0.075,Household,151.2,OUT004,Medium,Tier 2,Supermarket Type2,3439.01,17
+11.92,Regular,0.031,Dairy,138.42,OUT002,Small,Tier 3,Food Mart,800.44,28
+11.47,No Sugar,0.083,Health and Hygiene,122.24,OUT004,Medium,Tier 2,Supermarket Type2,2677.71,17
+12.92,Regular,0.027,Fruits and Vegetables,131.58,OUT004,Medium,Tier 2,Supermarket Type2,3198.09,17
+13.88,Low Sugar,0.074,Fruits and Vegetables,145.68,OUT004,Medium,Tier 2,Supermarket Type2,3703.0,17
+13.75,No Sugar,0.161,Others,196.25,OUT001,High,Tier 2,Supermarket Type1,4708.31,39
+14.45,Low Sugar,0.098,Dairy,127.37,OUT004,Medium,Tier 2,Supermarket Type2,3458.22,17
+15.58,Regular,0.052,Hard Drinks,182.11,OUT001,High,Tier 2,Supermarket Type1,4832.82,39
+11.08,Low Sugar,0.073,Meat,151.76,OUT004,Medium,Tier 2,Supermarket Type2,3193.59,17
+10.03,Low Sugar,0.038,Snack Foods,111.68,OUT002,Small,Tier 3,Food Mart,2136.58,28
+10.46,Low Sugar,0.137,Baking Goods,117.84,OUT001,High,Tier 2,Supermarket Type1,2413.39,39
+15.01,Low Sugar,0.09,Baking Goods,145.57,OUT004,Medium,Tier 2,Supermarket Type2,3956.75,17
+12.18,Low Sugar,0.12,Fruits and Vegetables,103.29,OUT001,High,Tier 2,Supermarket Type1,2452.09,39
+15.95,Low Sugar,0.069,Fruits and Vegetables,156.41,OUT003,Medium,Tier 1,Departmental Store,4391.32,27
+9.12,Regular,0.057,Snack Foods,136.29,OUT001,High,Tier 2,Supermarket Type1,2434.56,39
+13.35,Low Sugar,0.067,Fruits and Vegetables,108.83,OUT004,Medium,Tier 2,Supermarket Type2,2828.49,17
+16.28,Low Sugar,0.047,Dairy,136.19,OUT001,High,Tier 2,Supermarket Type1,4050.33,39
+9.52,Low Sugar,0.022,Baking Goods,154.55,OUT004,Medium,Tier 2,Supermarket Type2,2899.65,17
+13.99,No Sugar,0.083,Health and Hygiene,145.92,OUT004,Medium,Tier 2,Supermarket Type2,3733.52,17
+11.0,Low Sugar,0.035,Fruits and Vegetables,147.9,OUT004,Medium,Tier 2,Supermarket Type2,3096.5,17
+11.5,Low Sugar,0.039,Dairy,159.66,OUT004,Medium,Tier 2,Supermarket Type2,3451.32,17
+14.15,Low Sugar,0.014,Fruits and Vegetables,169.94,OUT003,Medium,Tier 1,Departmental Store,4260.86,27
+12.09,Low Sugar,0.131,Snack Foods,131.26,OUT002,Small,Tier 3,Food Mart,615.8,28
+12.85,No Sugar,0.046,Household,136.75,OUT004,Medium,Tier 2,Supermarket Type2,3287.55,17
+12.81,Low Sugar,0.025,Snack Foods,143.16,OUT004,Medium,Tier 2,Supermarket Type2,3410.04,17
+12.51,Low Sugar,0.015,Fruits and Vegetables,157.5,OUT004,Medium,Tier 2,Supermarket Type2,3635.72,17
+12.89,Regular,0.023,Snack Foods,101.86,OUT004,Medium,Tier 2,Supermarket Type2,2581.85,17
+14.27,Low Sugar,0.086,Meat,198.91,OUT001,High,Tier 2,Supermarket Type1,4879.47,39
+15.11,Low Sugar,0.01,Dairy,208.36,OUT003,Medium,Tier 1,Departmental Store,5262.76,27
+12.48,Low Sugar,0.076,Canned,179.08,OUT001,High,Tier 2,Supermarket Type1,4069.64,39
+14.75,No Sugar,0.021,Household,166.82,OUT003,Medium,Tier 1,Departmental Store,4333.09,27
+15.76,Regular,0.038,Dairy,170.12,OUT001,High,Tier 2,Supermarket Type1,4628.4,39
+13.76,Regular,0.059,Fruits and Vegetables,142.63,OUT004,Medium,Tier 2,Supermarket Type2,3613.8,17
+12.15,No Sugar,0.063,Others,155.6,OUT004,Medium,Tier 2,Supermarket Type2,3514.82,17
+13.79,Regular,0.21,Baking Goods,154.03,OUT004,Medium,Tier 2,Supermarket Type2,3853.03,17
+10.09,No Sugar,0.029,Household,88.75,OUT002,Small,Tier 3,Food Mart,1682.18,28
+14.2,Low Sugar,0.113,Fruits and Vegetables,152.24,OUT004,Medium,Tier 2,Supermarket Type2,2832.81,17
+14.71,Low Sugar,0.038,Dairy,205.11,OUT003,Medium,Tier 1,Departmental Store,5105.48,27
+14.66,Low Sugar,0.066,Seafood,193.33,OUT003,Medium,Tier 1,Departmental Store,5047.32,27
+16.27,Regular,0.075,Meat,161.84,OUT001,High,Tier 2,Supermarket Type1,4573.65,39
+11.19,Regular,0.043,Canned,130.27,OUT004,Medium,Tier 2,Supermarket Type2,2780.34,17
+10.62,Low Sugar,0.107,Snack Foods,132.73,OUT004,Medium,Tier 2,Supermarket Type2,2701.28,17
+14.67,No Sugar,0.118,Others,173.5,OUT003,Medium,Tier 1,Departmental Store,4450.43,27
+15.26,Low Sugar,0.035,Dairy,162.84,OUT003,Medium,Tier 1,Departmental Store,4366.04,27
+15.58,No Sugar,0.045,Health and Hygiene,140.46,OUT004,Medium,Tier 2,Supermarket Type2,3980.67,17
+7.14,No Sugar,0.034,Health and Hygiene,82.6,OUT002,Small,Tier 3,Food Mart,889.12,28
+12.58,Low Sugar,0.057,Fruits and Vegetables,119.09,OUT004,Medium,Tier 2,Supermarket Type2,2866.0,17
+13.49,Low Sugar,0.049,Baking Goods,175.16,OUT003,Medium,Tier 1,Departmental Store,4218.28,27
+12.67,Regular,0.119,Seafood,152.41,OUT004,Medium,Tier 2,Supermarket Type2,3567.79,17
+14.09,Regular,0.047,Hard Drinks,192.85,OUT001,High,Tier 2,Supermarket Type1,4714.9,39
+8.52,Low Sugar,0.07,Fruits and Vegetables,142.95,OUT001,High,Tier 2,Supermarket Type1,2436.69,39
+12.56,Regular,0.128,Baking Goods,163.28,OUT004,Medium,Tier 2,Supermarket Type2,3765.77,17
+15.06,Regular,0.014,Soft Drinks,146.66,OUT004,Medium,Tier 2,Supermarket Type2,3990.69,17
+12.84,No Sugar,0.17,Health and Hygiene,126.01,OUT004,Medium,Tier 2,Supermarket Type2,3066.55,17
+12.35,No Sugar,0.036,Household,90.25,OUT002,Small,Tier 3,Food Mart,2224.12,28
+11.47,Low Sugar,0.059,Fruits and Vegetables,144.01,OUT004,Medium,Tier 2,Supermarket Type2,3124.72,17
+9.91,Regular,0.142,Frozen Foods,124.09,OUT001,High,Tier 2,Supermarket Type1,2362.92,39
+12.67,No Sugar,0.076,Household,154.3,OUT004,Medium,Tier 2,Supermarket Type2,3605.41,17
+16.31,Low Sugar,0.076,Fruits and Vegetables,192.76,OUT003,Medium,Tier 1,Departmental Store,5215.58,27
+12.53,Low Sugar,0.072,Breads,148.53,OUT004,Medium,Tier 2,Supermarket Type2,3455.23,17
+13.04,Low Sugar,0.044,Baking Goods,143.05,OUT004,Medium,Tier 2,Supermarket Type2,3459.64,17
+13.88,Regular,0.077,Snack Foods,163.08,OUT001,High,Tier 2,Supermarket Type1,4059.19,39
+10.87,Regular,0.067,Fruits and Vegetables,147.96,OUT004,Medium,Tier 2,Supermarket Type2,3069.02,17
+13.06,Low Sugar,0.127,Frozen Foods,119.84,OUT004,Medium,Tier 2,Supermarket Type2,2988.35,17
+11.8,Low Sugar,0.064,Fruits and Vegetables,139.51,OUT004,Medium,Tier 2,Supermarket Type2,3107.73,17
+12.34,Regular,0.085,Fruits and Vegetables,145.17,OUT004,Medium,Tier 2,Supermarket Type2,3344.33,17
+10.85,Low Sugar,0.01,Soft Drinks,144.61,OUT004,Medium,Tier 2,Supermarket Type2,2997.3,17
+15.4,Low Sugar,0.027,Canned,204.46,OUT003,Medium,Tier 1,Departmental Store,5248.71,27
+14.78,Regular,0.018,Canned,188.4,OUT001,High,Tier 2,Supermarket Type1,4779.66,39
+11.68,No Sugar,0.097,Health and Hygiene,129.87,OUT002,Small,Tier 3,Food Mart,1397.17,28
+11.78,No Sugar,0.126,Household,168.68,OUT004,Medium,Tier 2,Supermarket Type2,3698.77,17
+10.06,Low Sugar,0.031,Baking Goods,77.58,OUT002,Small,Tier 3,Food Mart,1445.69,28
+10.92,Low Sugar,0.051,Canned,116.75,OUT001,High,Tier 2,Supermarket Type1,2442.72,39
+16.09,Regular,0.138,Fruits and Vegetables,161.68,OUT001,High,Tier 2,Supermarket Type1,4530.6,39
+10.7,Low Sugar,0.021,Dairy,136.6,OUT004,Medium,Tier 2,Supermarket Type2,2799.52,17
+15.53,No Sugar,0.039,Household,193.25,OUT003,Medium,Tier 1,Departmental Store,5049.07,27
+12.08,Low Sugar,0.035,Snack Foods,119.58,OUT004,Medium,Tier 2,Supermarket Type2,2761.54,17
+11.13,Regular,0.105,Fruits and Vegetables,126.25,OUT004,Medium,Tier 2,Supermarket Type2,2682.76,17
+10.06,Low Sugar,0.01,Fruits and Vegetables,67.3,OUT002,Small,Tier 3,Food Mart,1236.25,28
+10.88,Regular,0.184,Canned,136.57,OUT004,Medium,Tier 2,Supermarket Type2,2838.95,17
+13.07,Low Sugar,0.118,Dairy,172.25,OUT001,High,Tier 2,Supermarket Type1,4063.59,39
+11.86,Low Sugar,0.049,Fruits and Vegetables,150.58,OUT004,Medium,Tier 2,Supermarket Type2,3347.79,17
+8.7,Low Sugar,0.079,Fruits and Vegetables,136.77,OUT001,High,Tier 2,Supermarket Type1,2350.18,39
+14.27,Low Sugar,0.01,Snack Foods,184.71,OUT001,High,Tier 2,Supermarket Type1,4590.05,39
+7.94,Low Sugar,0.012,Hard Drinks,131.06,OUT002,Small,Tier 3,Food Mart,2062.07,28
+16.23,Low Sugar,0.009,Dairy,184.92,OUT003,Medium,Tier 1,Departmental Store,5037.25,27
+10.72,No Sugar,0.049,Health and Hygiene,92.94,OUT002,Small,Tier 3,Food Mart,1910.53,28
+13.46,No Sugar,0.08,Household,148.75,OUT004,Medium,Tier 2,Supermarket Type2,3670.67,17
+9.2,Low Sugar,0.085,Baking Goods,109.8,OUT002,Small,Tier 3,Food Mart,1910.16,28
+12.01,Low Sugar,0.032,Baking Goods,147.05,OUT004,Medium,Tier 2,Supermarket Type2,3307.71,17
+11.87,Low Sugar,0.1,Baking Goods,130.28,OUT004,Medium,Tier 2,Supermarket Type2,2933.24,17
+16.28,Regular,0.079,Baking Goods,166.18,OUT001,High,Tier 2,Supermarket Type1,4664.45,39
+11.55,Low Sugar,0.035,Fruits and Vegetables,90.8,OUT001,High,Tier 2,Supermarket Type1,2424.75,39
+14.38,Low Sugar,0.073,Dairy,206.22,OUT003,Medium,Tier 1,Departmental Store,5054.31,27
+12.79,Low Sugar,0.048,Canned,167.19,OUT004,Medium,Tier 2,Supermarket Type2,3896.66,17
+10.38,Low Sugar,0.095,Frozen Foods,131.93,OUT004,Medium,Tier 2,Supermarket Type2,2631.2,17
+19.91,Low Sugar,0.067,Snack Foods,174.4,OUT003,Medium,Tier 1,Departmental Store,5652.98,27
+10.95,Low Sugar,0.013,Dairy,111.91,OUT001,High,Tier 2,Supermarket Type1,2349.15,39
+10.77,No Sugar,0.126,Household,141.22,OUT004,Medium,Tier 2,Supermarket Type2,2909.9,17
+15.03,Low Sugar,0.066,Dairy,117.04,OUT004,Medium,Tier 2,Supermarket Type2,3376.82,17
+15.87,No Sugar,0.08,Household,167.92,OUT001,High,Tier 2,Supermarket Type1,4608.59,39
+10.48,Low Sugar,0.169,Baking Goods,94.81,OUT002,Small,Tier 3,Food Mart,1893.13,28
+9.42,Regular,0.074,Dairy,103.32,OUT002,Small,Tier 3,Food Mart,1828.94,28
+8.96,No Sugar,0.022,Health and Hygiene,129.98,OUT002,Small,Tier 3,Food Mart,2269.34,28
+11.99,Regular,0.081,Dairy,122.18,OUT004,Medium,Tier 2,Supermarket Type2,2794.79,17
+18.29,Low Sugar,0.142,Meat,146.15,OUT003,Medium,Tier 1,Departmental Store,4708.24,27
+14.3,Low Sugar,0.038,Snack Foods,102.93,OUT004,Medium,Tier 2,Supermarket Type2,2922.59,17
+12.68,Low Sugar,0.034,Canned,121.0,OUT004,Medium,Tier 2,Supermarket Type2,2927.83,17
+12.13,Low Sugar,0.072,Soft Drinks,98.87,OUT001,High,Tier 2,Supermarket Type1,4644.06,39
+14.28,No Sugar,0.169,Health and Hygiene,160.97,OUT001,High,Tier 2,Supermarket Type1,4106.49,39
+10.86,Regular,0.033,Breads,138.43,OUT004,Medium,Tier 2,Supermarket Type2,2872.01,17
+12.88,No Sugar,0.036,Health and Hygiene,158.01,OUT002,Small,Tier 3,Food Mart,1281.39,28
+14.28,Low Sugar,0.079,Fruits and Vegetables,141.66,OUT004,Medium,Tier 2,Supermarket Type2,3710.49,17
+10.31,Low Sugar,0.01,Baking Goods,164.34,OUT004,Medium,Tier 2,Supermarket Type2,3279.07,17
+16.97,Regular,0.077,Frozen Foods,190.24,OUT003,Medium,Tier 1,Departmental Store,5313.09,27
+10.32,Low Sugar,0.024,Meat,117.27,OUT001,High,Tier 2,Supermarket Type1,2316.16,39
+11.75,Low Sugar,0.122,Dairy,99.16,OUT002,Small,Tier 3,Food Mart,2269.67,28
+13.07,Low Sugar,0.088,Fruits and Vegetables,121.25,OUT004,Medium,Tier 2,Supermarket Type2,3019.58,17
+9.18,Regular,0.171,Dairy,115.82,OUT002,Small,Tier 3,Food Mart,2030.87,28
+10.0,Regular,0.006,Baking Goods,160.82,OUT004,Medium,Tier 2,Supermarket Type2,3135.2,17
+8.5,Regular,0.026,Dairy,158.22,OUT004,Medium,Tier 2,Supermarket Type2,2743.84,17
+18.19,Low Sugar,0.01,Fruits and Vegetables,175.59,OUT003,Medium,Tier 1,Departmental Store,5944.96,27
+11.98,Low Sugar,0.086,Fruits and Vegetables,125.08,OUT004,Medium,Tier 2,Supermarket Type2,2851.97,17
+10.85,Low Sugar,0.104,Frozen Foods,216.4,OUT003,Medium,Tier 1,Departmental Store,4465.11,27
+8.96,Regular,0.023,Hard Drinks,113.57,OUT002,Small,Tier 3,Food Mart,1934.23,28
+12.86,No Sugar,0.071,Health and Hygiene,129.34,OUT004,Medium,Tier 2,Supermarket Type2,3137.16,17
+14.74,Regular,0.072,Snack Foods,166.59,OUT003,Medium,Tier 1,Departmental Store,4324.69,27
+12.23,Low Sugar,0.064,Breads,171.55,OUT004,Medium,Tier 2,Supermarket Type2,3860.26,17
+14.1,Low Sugar,0.091,Soft Drinks,174.64,OUT003,Medium,Tier 1,Departmental Store,4345.97,27
+15.05,No Sugar,0.014,Household,160.15,OUT003,Medium,Tier 1,Departmental Store,4264.2,27
+7.73,Low Sugar,0.022,Soft Drinks,136.35,OUT002,Small,Tier 3,Food Mart,2123.33,28
+15.57,No Sugar,0.173,Health and Hygiene,157.75,OUT003,Medium,Tier 1,Departmental Store,4330.81,27
+14.23,No Sugar,0.228,Health and Hygiene,154.62,OUT004,Medium,Tier 2,Supermarket Type2,3964.1,17
+10.37,Low Sugar,0.018,Canned,111.87,OUT002,Small,Tier 3,Food Mart,2217.44,28
+14.2,Low Sugar,0.049,Frozen Foods,162.54,OUT001,High,Tier 2,Supermarket Type1,4119.73,39
+16.02,Low Sugar,0.07,Dairy,156.21,OUT003,Medium,Tier 1,Departmental Store,4401.52,27
+11.73,Low Sugar,0.128,Soft Drinks,137.31,OUT004,Medium,Tier 2,Supermarket Type2,3044.98,17
+6.96,No Sugar,0.153,Others,59.22,OUT002,Small,Tier 3,Food Mart,369.31,28
+12.82,Regular,0.184,Baking Goods,133.98,OUT004,Medium,Tier 2,Supermarket Type2,3223.86,17
+12.95,No Sugar,0.141,Household,148.36,OUT004,Medium,Tier 2,Supermarket Type2,3548.75,17
+8.43,Low Sugar,0.053,Breakfast,110.29,OUT002,Small,Tier 3,Food Mart,1748.02,28
+11.74,No Sugar,0.026,Household,123.21,OUT004,Medium,Tier 2,Supermarket Type2,2760.22,17
+15.82,Low Sugar,0.031,Fruits and Vegetables,162.76,OUT003,Medium,Tier 1,Departmental Store,4489.9,27
+14.87,Low Sugar,0.154,Fruits and Vegetables,151.9,OUT001,High,Tier 2,Supermarket Type1,4054.14,39
+12.98,Regular,0.021,Breads,147.61,OUT004,Medium,Tier 2,Supermarket Type2,3538.76,17
+19.22,Low Sugar,0.033,Snack Foods,212.36,OUT003,Medium,Tier 1,Departmental Store,6275.29,27
+15.01,No Sugar,0.032,Health and Hygiene,181.13,OUT001,High,Tier 2,Supermarket Type1,4682.53,39
+12.48,Low Sugar,0.021,Baking Goods,143.52,OUT004,Medium,Tier 2,Supermarket Type2,3343.31,17
+16.2,Low Sugar,0.142,Snack Foods,149.65,OUT003,Medium,Tier 1,Departmental Store,4309.59,27
+11.28,Low Sugar,0.076,Meat,162.31,OUT004,Medium,Tier 2,Supermarket Type2,2736.36,17
+9.06,Low Sugar,0.027,Canned,152.67,OUT004,Medium,Tier 2,Supermarket Type2,2757.64,17
+13.28,Low Sugar,0.084,Meat,148.86,OUT004,Medium,Tier 2,Supermarket Type2,3631.96,17
+14.87,Low Sugar,0.077,Meat,154.58,OUT001,High,Tier 2,Supermarket Type1,3722.98,39
+12.25,Regular,0.031,Meat,102.71,OUT001,High,Tier 2,Supermarket Type1,2456.43,39
+10.68,Low Sugar,0.033,Snack Foods,72.37,OUT001,High,Tier 2,Supermarket Type1,4790.98,39
+10.93,No Sugar,0.083,Household,105.58,OUT002,Small,Tier 3,Food Mart,2215.86,28
+10.2,Low Sugar,0.08,Snack Foods,145.66,OUT004,Medium,Tier 2,Supermarket Type2,2871.58,17
+14.62,Regular,0.086,Hard Drinks,153.14,OUT001,High,Tier 2,Supermarket Type1,4021.82,39
+10.94,Low Sugar,0.138,Dairy,121.01,OUT004,Medium,Tier 2,Supermarket Type2,2532.68,17
+11.87,Low Sugar,0.14,Starchy Foods,128.01,OUT004,Medium,Tier 2,Supermarket Type2,2887.03,17
+9.77,Low Sugar,0.013,Hard Drinks,115.44,OUT002,Small,Tier 3,Food Mart,2154.83,28
+14.71,Low Sugar,0.023,Baking Goods,153.67,OUT001,High,Tier 2,Supermarket Type1,4055.0,39
+17.68,Low Sugar,0.049,Baking Goods,152.4,OUT003,Medium,Tier 1,Departmental Store,4699.08,27
+15.03,Low Sugar,0.067,Canned,115.38,OUT004,Medium,Tier 2,Supermarket Type2,3344.04,17
+11.85,No Sugar,0.045,Household,147.18,OUT004,Medium,Tier 2,Supermarket Type2,3274.24,17
+12.84,Low Sugar,0.047,Snack Foods,147.58,OUT004,Medium,Tier 2,Supermarket Type2,3506.54,17
+14.34,No Sugar,0.026,Health and Hygiene,162.64,OUT001,High,Tier 2,Supermarket Type1,4153.3,39
+12.79,No Sugar,0.015,Household,150.11,OUT004,Medium,Tier 2,Supermarket Type2,3547.77,17
+12.73,Low Sugar,0.056,Fruits and Vegetables,144.22,OUT004,Medium,Tier 2,Supermarket Type2,3412.48,17
+15.82,No Sugar,0.174,Health and Hygiene,156.17,OUT003,Medium,Tier 1,Departmental Store,4355.39,27
+13.89,No Sugar,0.193,Household,168.44,OUT001,High,Tier 2,Supermarket Type1,4171.82,39
+14.42,Low Sugar,0.067,Baking Goods,181.17,OUT001,High,Tier 2,Supermarket Type1,4550.07,39
+16.43,Low Sugar,0.066,Frozen Foods,141.98,OUT003,Medium,Tier 1,Departmental Store,4202.46,27
+12.03,Low Sugar,0.044,Snack Foods,126.03,OUT004,Medium,Tier 2,Supermarket Type2,2883.92,17
+13.81,Low Sugar,0.017,Fruits and Vegetables,164.81,OUT001,High,Tier 2,Supermarket Type1,4079.48,39
+15.64,Regular,0.06,Baking Goods,183.21,OUT001,High,Tier 2,Supermarket Type1,4867.54,39
+11.44,Low Sugar,0.088,Frozen Foods,121.42,OUT004,Medium,Tier 2,Supermarket Type2,2655.65,17
+12.03,No Sugar,0.02,Health and Hygiene,95.47,OUT002,Small,Tier 3,Food Mart,2256.39,28
+14.82,Regular,0.03,Baking Goods,190.42,OUT001,High,Tier 2,Supermarket Type1,4830.81,39
+11.14,Low Sugar,0.039,Dairy,180.49,OUT004,Medium,Tier 2,Supermarket Type2,3796.06,17
+12.04,Regular,0.011,Meat,128.04,OUT004,Medium,Tier 2,Supermarket Type2,2925.8,17
+14.43,No Sugar,0.065,Household,177.0,OUT003,Medium,Tier 1,Departmental Store,4467.64,27
+11.35,Low Sugar,0.036,Starchy Foods,148.33,OUT004,Medium,Tier 2,Supermarket Type2,3185.26,17
+11.56,No Sugar,0.098,Household,122.14,OUT004,Medium,Tier 2,Supermarket Type2,2697.95,17
+9.72,Low Sugar,0.162,Meat,113.3,OUT002,Small,Tier 3,Food Mart,2101.11,28
+8.67,No Sugar,0.014,Health and Hygiene,131.35,OUT002,Small,Tier 3,Food Mart,2233.33,28
+13.9,Low Sugar,0.033,Soft Drinks,187.96,OUT001,High,Tier 2,Supermarket Type1,4572.79,39
+12.73,No Sugar,0.073,Health and Hygiene,148.4,OUT004,Medium,Tier 2,Supermarket Type2,3498.52,17
+10.57,Low Sugar,0.042,Meat,125.25,OUT004,Medium,Tier 2,Supermarket Type2,2537.74,17
+12.03,No Sugar,0.032,Others,168.48,OUT004,Medium,Tier 2,Supermarket Type2,3750.96,17
+11.14,Low Sugar,0.165,Snack Foods,94.94,OUT002,Small,Tier 3,Food Mart,2045.18,28
+14.25,Low Sugar,0.052,Snack Foods,205.35,OUT003,Medium,Tier 1,Departmental Store,5008.26,27
+11.89,Low Sugar,0.089,Frozen Foods,161.22,OUT004,Medium,Tier 2,Supermarket Type2,3571.13,17
+9.69,Regular,0.027,Snack Foods,51.9,OUT002,Small,Tier 3,Food Mart,836.23,28
+12.81,No Sugar,0.089,Health and Hygiene,168.73,OUT004,Medium,Tier 2,Supermarket Type2,3933.37,17
+14.02,Low Sugar,0.09,Soft Drinks,118.48,OUT004,Medium,Tier 2,Supermarket Type2,3177.22,17
+12.91,Low Sugar,0.106,Frozen Foods,130.02,OUT004,Medium,Tier 2,Supermarket Type2,3162.4,17
+12.0,No Sugar,0.076,Health and Hygiene,152.55,OUT004,Medium,Tier 2,Supermarket Type2,3417.77,17
+12.68,Low Sugar,0.058,Fruits and Vegetables,74.35,OUT002,Small,Tier 3,Food Mart,1971.33,28
+15.3,Low Sugar,0.019,Dairy,198.23,OUT003,Medium,Tier 1,Departmental Store,5100.12,27
+13.15,Low Sugar,0.067,Dairy,153.82,OUT004,Medium,Tier 2,Supermarket Type2,3704.49,17
+11.93,Low Sugar,0.076,Fruits and Vegetables,143.45,OUT004,Medium,Tier 2,Supermarket Type2,3216.56,17
+13.16,No Sugar,0.142,Household,142.18,OUT004,Medium,Tier 2,Supermarket Type2,3469.66,17
+8.05,Regular,0.039,Baking Goods,103.58,OUT002,Small,Tier 3,Food Mart,1524.79,28
+20.31,Low Sugar,0.131,Snack Foods,190.63,OUT003,Medium,Tier 1,Departmental Store,6075.11,27
+13.49,Regular,0.089,Dairy,153.55,OUT004,Medium,Tier 2,Supermarket Type2,3774.86,17
+9.91,Low Sugar,0.059,Dairy,165.33,OUT003,Medium,Tier 1,Departmental Store,6401.78,27
+12.71,Low Sugar,0.013,Fruits and Vegetables,186.96,OUT003,Medium,Tier 1,Departmental Store,4283.4,27
+12.59,Low Sugar,0.031,Snack Foods,184.38,OUT003,Medium,Tier 1,Departmental Store,4203.86,27
+12.29,No Sugar,0.123,Household,159.9,OUT004,Medium,Tier 2,Supermarket Type2,3633.8,17
+11.1,Low Sugar,0.053,Breads,122.31,OUT004,Medium,Tier 2,Supermarket Type2,2596.24,17
+13.04,Low Sugar,0.034,Dairy,185.53,OUT003,Medium,Tier 1,Departmental Store,4327.71,27
+12.36,Low Sugar,0.029,Baking Goods,182.54,OUT001,High,Tier 2,Supermarket Type1,4113.0,39
+14.76,No Sugar,0.161,Household,188.48,OUT001,High,Tier 2,Supermarket Type1,4776.98,39
+13.64,No Sugar,0.071,Household,157.1,OUT004,Medium,Tier 2,Supermarket Type2,3882.69,17
+11.25,Low Sugar,0.009,Snack Foods,142.24,OUT004,Medium,Tier 2,Supermarket Type2,3037.64,17
+12.48,Regular,0.214,Dairy,105.0,OUT004,Medium,Tier 2,Supermarket Type2,2554.01,17
+12.87,Regular,0.089,Fruits and Vegetables,133.63,OUT004,Medium,Tier 2,Supermarket Type2,3227.45,17
+12.46,Regular,0.07,Fruits and Vegetables,93.19,OUT001,High,Tier 2,Supermarket Type1,3936.39,39
+9.3,Low Sugar,0.024,Dairy,102.53,OUT002,Small,Tier 3,Food Mart,1785.14,28
+13.69,Low Sugar,0.028,Snack Foods,169.01,OUT001,High,Tier 2,Supermarket Type1,4138.23,39
+12.91,Regular,0.026,Meat,119.28,OUT004,Medium,Tier 2,Supermarket Type2,2942.74,17
+11.24,Low Sugar,0.044,Starchy Foods,134.05,OUT004,Medium,Tier 2,Supermarket Type2,4194.9,17
+11.05,Low Sugar,0.013,Dairy,114.41,OUT001,High,Tier 2,Supermarket Type1,2422.69,39
+12.87,Low Sugar,0.029,Breads,160.47,OUT004,Medium,Tier 2,Supermarket Type2,3778.34,17
+14.73,Regular,0.139,Starchy Foods,170.69,OUT003,Medium,Tier 1,Departmental Store,5890.72,27
+12.02,Low Sugar,0.041,Snack Foods,118.48,OUT004,Medium,Tier 2,Supermarket Type2,2725.02,17
+14.16,Low Sugar,0.063,Snack Foods,129.12,OUT004,Medium,Tier 2,Supermarket Type2,3427.3,17
+12.37,Regular,0.096,Fruits and Vegetables,159.01,OUT004,Medium,Tier 2,Supermarket Type2,3635.05,17
+11.12,Low Sugar,0.024,Starchy Foods,149.28,OUT004,Medium,Tier 2,Supermarket Type2,3152.15,17
+10.97,Low Sugar,0.045,Frozen Foods,117.36,OUT001,High,Tier 2,Supermarket Type1,2466.69,39
+8.27,No Sugar,0.075,Health and Hygiene,156.11,OUT004,Medium,Tier 2,Supermarket Type2,2649.21,17
+15.03,Regular,0.035,Hard Drinks,147.59,OUT001,High,Tier 2,Supermarket Type1,4001.63,39
+13.21,Regular,0.061,Soft Drinks,144.53,OUT004,Medium,Tier 2,Supermarket Type2,3527.91,17
+8.63,No Sugar,0.036,Household,129.62,OUT002,Small,Tier 3,Food Mart,2188.69,28
+17.5,Regular,0.178,Meat,192.22,OUT003,Medium,Tier 1,Departmental Store,5472.41,27
+10.79,No Sugar,0.041,Household,168.8,OUT004,Medium,Tier 2,Supermarket Type2,3476.99,17
+12.11,Regular,0.027,Hard Drinks,106.65,OUT004,Medium,Tier 2,Supermarket Type2,2503.29,17
+11.37,Low Sugar,0.042,Fruits and Vegetables,148.76,OUT004,Medium,Tier 2,Supermarket Type2,3199.75,17
+13.69,No Sugar,0.062,Household,155.48,OUT004,Medium,Tier 2,Supermarket Type2,3860.83,17
+12.95,No Sugar,0.085,Household,107.38,OUT004,Medium,Tier 2,Supermarket Type2,4332.32,17
+14.76,Low Sugar,0.076,Meat,130.99,OUT004,Medium,Tier 2,Supermarket Type2,3601.2,17
+13.4,Low Sugar,0.041,Canned,139.02,OUT004,Medium,Tier 2,Supermarket Type2,3458.94,17
+13.08,Low Sugar,0.014,Dairy,139.35,OUT004,Medium,Tier 2,Supermarket Type2,3392.55,17
+11.48,Low Sugar,0.097,Canned,148.56,OUT004,Medium,Tier 2,Supermarket Type2,3219.19,17
+12.84,Regular,0.062,Snack Foods,183.08,OUT003,Medium,Tier 1,Departmental Store,4233.32,27
+10.66,Low Sugar,0.174,Starchy Foods,141.0,OUT004,Medium,Tier 2,Supermarket Type2,1640.82,17
+11.39,Low Sugar,0.144,Meat,153.67,OUT003,Medium,Tier 1,Departmental Store,5921.56,27
+14.84,Low Sugar,0.076,Snack Foods,176.91,OUT001,High,Tier 2,Supermarket Type1,4559.77,39
+16.74,Low Sugar,0.1,Snack Foods,203.67,OUT003,Medium,Tier 1,Departmental Store,5535.46,27
+8.96,Low Sugar,0.01,Dairy,96.35,OUT002,Small,Tier 3,Food Mart,1581.19,28
+13.96,Low Sugar,0.057,Snack Foods,190.61,OUT001,High,Tier 2,Supermarket Type1,4639.43,39
+9.11,No Sugar,0.031,Health and Hygiene,122.34,OUT002,Small,Tier 3,Food Mart,1082.24,28
+8.27,Regular,0.145,Snack Foods,116.25,OUT002,Small,Tier 3,Food Mart,1833.36,28
+14.89,Low Sugar,0.088,Baking Goods,200.39,OUT003,Medium,Tier 1,Departmental Store,5051.08,27
+12.55,Regular,0.175,Dairy,170.58,OUT004,Medium,Tier 2,Supermarket Type2,3912.55,17
+10.95,Low Sugar,0.027,Frozen Foods,120.35,OUT004,Medium,Tier 2,Supermarket Type2,2521.93,17
+12.02,Low Sugar,0.161,Frozen Foods,106.83,OUT001,High,Tier 2,Supermarket Type1,2486.55,39
+15.4,Low Sugar,0.128,Fruits and Vegetables,177.14,OUT001,High,Tier 2,Supermarket Type1,4690.32,39
+11.77,Low Sugar,0.091,Breads,147.67,OUT004,Medium,Tier 2,Supermarket Type2,3267.73,17
+13.24,No Sugar,0.168,Others,133.2,OUT004,Medium,Tier 2,Supermarket Type2,3303.62,17
+7.92,Low Sugar,0.027,Meat,134.91,OUT002,Small,Tier 3,Food Mart,2135.42,28
+8.05,No Sugar,0.04,Health and Hygiene,67.14,OUT002,Small,Tier 3,Food Mart,778.1,28
+10.92,Low Sugar,0.052,Fruits and Vegetables,100.26,OUT002,Small,Tier 3,Food Mart,2104.26,28
+11.14,Low Sugar,0.015,Dairy,201.78,OUT003,Medium,Tier 1,Departmental Store,4231.98,27
+13.11,Low Sugar,0.106,Breakfast,160.46,OUT004,Medium,Tier 2,Supermarket Type2,3830.98,17
+16.3,No Sugar,0.013,Household,170.94,OUT001,High,Tier 2,Supermarket Type1,4766.1,39
+10.1,Low Sugar,0.006,Fruits and Vegetables,117.76,OUT002,Small,Tier 3,Food Mart,2277.36,28
+14.44,Low Sugar,0.036,Snack Foods,134.53,OUT003,Medium,Tier 1,Departmental Store,6410.25,27
+13.84,Low Sugar,0.038,Breads,115.31,OUT004,Medium,Tier 2,Supermarket Type2,3071.71,17
+5.93,Low Sugar,0.03,Dairy,109.76,OUT002,Small,Tier 3,Food Mart,1171.69,28
+13.24,Low Sugar,0.121,Snack Foods,169.93,OUT001,High,Tier 2,Supermarket Type1,4055.09,39
+16.96,Regular,0.08,Dairy,150.74,OUT001,High,Tier 2,Supermarket Type1,4503.6,39
+7.12,Regular,0.227,Fruits and Vegetables,94.79,OUT002,Small,Tier 3,Food Mart,1132.86,28
+13.28,Low Sugar,0.045,Dairy,149.12,OUT004,Medium,Tier 2,Supermarket Type2,4912.92,17
+10.01,Regular,0.053,Dairy,111.14,OUT002,Small,Tier 3,Food Mart,2122.44,28
+8.8,No Sugar,0.047,Household,107.05,OUT002,Small,Tier 3,Food Mart,1763.55,28
+14.66,Low Sugar,0.14,Canned,153.72,OUT001,High,Tier 2,Supermarket Type1,4044.51,39
+16.68,Low Sugar,0.171,Frozen Foods,163.9,OUT001,High,Tier 2,Supermarket Type1,3152.31,39
+12.22,Regular,0.014,Meat,81.67,OUT002,Small,Tier 3,Food Mart,2017.28,28
+11.3,Low Sugar,0.033,Soft Drinks,163.81,OUT004,Medium,Tier 2,Supermarket Type2,3491.22,17
+11.55,Low Sugar,0.038,Fruits and Vegetables,144.6,OUT004,Medium,Tier 2,Supermarket Type2,3153.27,17
+16.65,Low Sugar,0.089,Fruits and Vegetables,190.63,OUT003,Medium,Tier 1,Departmental Store,5247.93,27
+13.59,Low Sugar,0.069,Dairy,150.54,OUT004,Medium,Tier 2,Supermarket Type2,3735.87,17
+10.4,Regular,0.1,Snack Foods,93.25,OUT002,Small,Tier 3,Food Mart,1843.35,28
+11.35,Regular,0.063,Canned,136.51,OUT004,Medium,Tier 2,Supermarket Type2,2943.26,17
+8.51,No Sugar,0.1,Household,121.64,OUT002,Small,Tier 3,Food Mart,1996.83,28
+11.91,Low Sugar,0.14,Frozen Foods,110.62,OUT004,Medium,Tier 2,Supermarket Type2,2539.49,17
+14.52,No Sugar,0.029,Household,152.44,OUT004,Medium,Tier 2,Supermarket Type2,3984.92,17
+11.16,Low Sugar,0.039,Snack Foods,171.62,OUT004,Medium,Tier 2,Supermarket Type2,3619.1,17
+7.02,Regular,0.029,Baking Goods,50.42,OUT002,Small,Tier 3,Food Mart,203.55,28
+15.79,Low Sugar,0.146,Seafood,159.01,OUT003,Medium,Tier 1,Departmental Store,4407.55,27
+14.57,Low Sugar,0.036,Soft Drinks,117.44,OUT004,Medium,Tier 2,Supermarket Type2,3280.34,17
+13.56,Low Sugar,0.029,Baking Goods,126.47,OUT004,Medium,Tier 2,Supermarket Type2,3238.63,17
+13.51,Low Sugar,0.047,Baking Goods,144.06,OUT004,Medium,Tier 2,Supermarket Type2,3586.98,17
+14.04,No Sugar,0.167,Health and Hygiene,145.76,OUT004,Medium,Tier 2,Supermarket Type2,3740.05,17
+13.65,Low Sugar,0.09,Dairy,184.25,OUT003,Medium,Tier 1,Departmental Store,4440.59,27
+15.45,Regular,0.28,Snack Foods,160.62,OUT003,Medium,Tier 1,Departmental Store,4362.78,27
+14.98,Regular,0.046,Snack Foods,161.48,OUT003,Medium,Tier 1,Departmental Store,4275.61,27
+13.0,Low Sugar,0.047,Hard Drinks,191.22,OUT003,Medium,Tier 1,Departmental Store,4436.42,27
+10.15,Regular,0.052,Snack Foods,137.92,OUT004,Medium,Tier 2,Supermarket Type2,2700.9,17
+17.18,Low Sugar,0.026,Fruits and Vegetables,217.07,OUT003,Medium,Tier 1,Departmental Store,5908.59,27
+11.52,No Sugar,0.019,Household,101.37,OUT002,Small,Tier 3,Food Mart,2263.36,28
+14.41,No Sugar,0.019,Health and Hygiene,143.79,OUT004,Medium,Tier 2,Supermarket Type2,3783.88,17
+11.44,No Sugar,0.057,Household,181.96,OUT004,Medium,Tier 2,Supermarket Type2,3894.35,17
+11.68,Low Sugar,0.053,Baking Goods,141.24,OUT004,Medium,Tier 2,Supermarket Type2,3113.92,17
+10.92,Regular,0.031,Dairy,110.63,OUT001,High,Tier 2,Supermarket Type1,2315.7,39
+14.21,Low Sugar,0.142,Fruits and Vegetables,152.13,OUT004,Medium,Tier 2,Supermarket Type2,3909.55,17
+16.7,Low Sugar,0.099,Breads,131.03,OUT001,High,Tier 2,Supermarket Type1,4040.92,39
+12.37,No Sugar,0.154,Health and Hygiene,107.55,OUT004,Medium,Tier 2,Supermarket Type2,5170.08,17
+8.62,Regular,0.16,Snack Foods,104.51,OUT002,Small,Tier 3,Food Mart,1671.3,28
+12.0,Regular,0.126,Snack Foods,150.89,OUT004,Medium,Tier 2,Supermarket Type2,1863.66,17
+14.75,Low Sugar,0.042,Canned,220.18,OUT003,Medium,Tier 1,Departmental Store,5423.6,27
+15.67,Regular,0.076,Frozen Foods,135.36,OUT004,Medium,Tier 2,Supermarket Type2,3897.08,17
+12.39,Low Sugar,0.114,Frozen Foods,175.47,OUT004,Medium,Tier 2,Supermarket Type2,3975.65,17
+11.48,Low Sugar,0.122,Dairy,153.27,OUT004,Medium,Tier 2,Supermarket Type2,3316.49,17
+17.39,Low Sugar,0.07,Soft Drinks,137.14,OUT003,Medium,Tier 1,Departmental Store,4320.56,27
+11.49,Low Sugar,0.119,Fruits and Vegetables,141.28,OUT004,Medium,Tier 2,Supermarket Type2,3072.79,17
+7.96,Regular,0.017,Fruits and Vegetables,115.71,OUT002,Small,Tier 3,Food Mart,1752.66,28
+12.81,Low Sugar,0.094,Soft Drinks,141.59,OUT004,Medium,Tier 2,Supermarket Type2,3124.92,17
+13.81,Regular,0.044,Dairy,208.17,OUT001,High,Tier 2,Supermarket Type1,4965.79,39
+17.36,Low Sugar,0.081,Dairy,153.55,OUT001,High,Tier 2,Supermarket Type1,4649.58,39
+11.43,Regular,0.065,Baking Goods,99.29,OUT002,Small,Tier 3,Food Mart,2200.72,28
+12.46,Low Sugar,0.115,Dairy,153.71,OUT004,Medium,Tier 2,Supermarket Type2,3545.32,17
+14.51,No Sugar,0.038,Health and Hygiene,148.51,OUT004,Medium,Tier 2,Supermarket Type2,3904.01,17
+13.21,Low Sugar,0.067,Snack Foods,157.8,OUT004,Medium,Tier 2,Supermarket Type2,3800.42,17
+9.16,Regular,0.018,Snack Foods,95.11,OUT002,Small,Tier 3,Food Mart,1602.1,28
+14.54,Regular,0.055,Fruits and Vegetables,147.53,OUT004,Medium,Tier 2,Supermarket Type2,3890.62,17
+11.24,Low Sugar,0.041,Meat,118.24,OUT004,Medium,Tier 2,Supermarket Type2,2545.21,17
+9.21,No Sugar,0.147,Health and Hygiene,111.69,OUT002,Small,Tier 3,Food Mart,1951.42,28
+9.37,Low Sugar,0.026,Meat,175.97,OUT004,Medium,Tier 2,Supermarket Type2,3304.41,17
+12.98,No Sugar,0.138,Household,146.5,OUT004,Medium,Tier 2,Supermarket Type2,3515.57,17
+14.86,Low Sugar,0.009,Dairy,175.22,OUT001,High,Tier 2,Supermarket Type1,4529.36,39
+13.46,Regular,0.161,Snack Foods,188.36,OUT003,Medium,Tier 1,Departmental Store,4480.26,27
+14.28,Low Sugar,0.121,Frozen Foods,152.84,OUT004,Medium,Tier 2,Supermarket Type2,3939.24,17
+13.18,Regular,0.028,Breads,156.32,OUT004,Medium,Tier 2,Supermarket Type2,3762.68,17
+13.22,Regular,0.098,Canned,213.71,OUT001,High,Tier 2,Supermarket Type1,4946.52,39
+13.52,Low Sugar,0.066,Meat,167.92,OUT001,High,Tier 2,Supermarket Type1,4076.94,39
+15.46,Regular,0.004,Fruits and Vegetables,150.48,OUT001,High,Tier 2,Supermarket Type1,4157.91,39
+11.15,Low Sugar,0.079,Soft Drinks,92.71,OUT002,Small,Tier 3,Food Mart,2001.18,28
+14.39,Low Sugar,0.019,Dairy,164.5,OUT003,Medium,Tier 1,Departmental Store,4203.26,27
+15.48,Low Sugar,0.098,Snack Foods,138.1,OUT004,Medium,Tier 2,Supermarket Type2,3909.85,17
+12.83,Low Sugar,0.011,Dairy,150.54,OUT004,Medium,Tier 2,Supermarket Type2,3566.16,17
+13.64,Regular,0.04,Soft Drinks,158.51,OUT004,Medium,Tier 2,Supermarket Type2,3911.69,17
+12.97,Low Sugar,0.04,Dairy,165.45,OUT004,Medium,Tier 2,Supermarket Type2,3901.29,17
+14.88,Low Sugar,0.038,Canned,96.49,OUT004,Medium,Tier 2,Supermarket Type2,2922.28,17
+12.53,Regular,0.066,Snack Foods,145.62,OUT004,Medium,Tier 2,Supermarket Type2,3396.37,17
+14.54,Low Sugar,0.128,Dairy,175.77,OUT003,Medium,Tier 1,Departmental Store,4468.82,27
+11.34,Low Sugar,0.013,Baking Goods,90.26,OUT002,Small,Tier 3,Food Mart,1995.1,28
+12.07,Low Sugar,0.015,Snack Foods,145.3,OUT004,Medium,Tier 2,Supermarket Type2,3286.36,17
+9.64,Regular,0.076,Baking Goods,170.36,OUT004,Medium,Tier 2,Supermarket Type2,3250.64,17
+14.56,Regular,0.105,Baking Goods,180.21,OUT001,High,Tier 2,Supermarket Type1,4562.36,39
+12.77,Low Sugar,0.046,Starchy Foods,165.71,OUT004,Medium,Tier 2,Supermarket Type2,3861.91,17
+14.05,No Sugar,0.079,Health and Hygiene,113.29,OUT004,Medium,Tier 2,Supermarket Type2,3079.61,17
+10.43,Low Sugar,0.059,Snack Foods,73.7,OUT002,Small,Tier 3,Food Mart,1450.83,28
+12.26,Low Sugar,0.017,Baking Goods,130.83,OUT004,Medium,Tier 2,Supermarket Type2,3032.91,17
+15.01,Low Sugar,0.178,Breads,187.3,OUT001,High,Tier 2,Supermarket Type1,4810.1,39
+10.4,Regular,0.029,Baking Goods,123.1,OUT001,High,Tier 2,Supermarket Type1,2455.6,39
+12.7,Low Sugar,0.021,Frozen Foods,153.44,OUT004,Medium,Tier 2,Supermarket Type2,3594.93,17
+13.33,Low Sugar,0.147,Soft Drinks,154.99,OUT004,Medium,Tier 2,Supermarket Type2,3768.48,17
+10.81,Regular,0.04,Frozen Foods,117.47,OUT001,High,Tier 2,Supermarket Type1,2433.02,39
+16.12,No Sugar,0.12,Health and Hygiene,175.82,OUT001,High,Tier 2,Supermarket Type1,4825.55,39
+10.08,Low Sugar,0.036,Snack Foods,146.12,OUT004,Medium,Tier 2,Supermarket Type2,2853.11,17
+13.06,Regular,0.191,Snack Foods,151.96,OUT004,Medium,Tier 2,Supermarket Type2,3646.25,17
+11.96,Regular,0.061,Soft Drinks,148.12,OUT004,Medium,Tier 2,Supermarket Type2,3319.48,17
+15.99,Low Sugar,0.038,Snack Foods,164.5,OUT001,High,Tier 2,Supermarket Type1,4563.96,39
+13.21,Low Sugar,0.042,Canned,171.81,OUT001,High,Tier 2,Supermarket Type1,4085.82,39
+9.98,Regular,0.027,Baking Goods,125.22,OUT001,High,Tier 2,Supermarket Type1,2403.73,39
+14.5,Low Sugar,0.062,Meat,180.97,OUT001,High,Tier 2,Supermarket Type1,4566.21,39
+15.56,Regular,0.03,Fruits and Vegetables,137.87,OUT004,Medium,Tier 2,Supermarket Type2,3924.03,17
+13.73,Low Sugar,0.137,Fruits and Vegetables,192.14,OUT001,High,Tier 2,Supermarket Type1,4620.9,39
+13.73,Regular,0.078,Meat,153.86,OUT004,Medium,Tier 2,Supermarket Type2,3836.67,17
+10.02,Regular,0.184,Fruits and Vegetables,89.92,OUT002,Small,Tier 3,Food Mart,1688.81,28
+13.45,Low Sugar,0.029,Fruits and Vegetables,146.12,OUT004,Medium,Tier 2,Supermarket Type2,3615.16,17
+9.63,Low Sugar,0.071,Breads,197.66,OUT004,Medium,Tier 2,Supermarket Type2,3806.11,17
+10.63,Low Sugar,0.082,Breads,159.04,OUT004,Medium,Tier 2,Supermarket Type2,3242.1,17
+15.14,Regular,0.031,Frozen Foods,166.7,OUT003,Medium,Tier 1,Departmental Store,4417.93,27
+13.28,Regular,0.035,Baking Goods,188.91,OUT003,Medium,Tier 1,Departmental Store,4451.41,27
+12.7,Low Sugar,0.017,Dairy,144.49,OUT004,Medium,Tier 2,Supermarket Type2,3411.33,17
+11.25,No Sugar,0.031,Household,105.49,OUT002,Small,Tier 3,Food Mart,2285.7,28
+11.35,Low Sugar,0.062,Dairy,131.18,OUT004,Medium,Tier 2,Supermarket Type2,2834.24,17
+14.52,Regular,0.019,Baking Goods,214.98,OUT003,Medium,Tier 1,Departmental Store,5264.97,27
+10.57,Low Sugar,0.023,Frozen Foods,150.93,OUT004,Medium,Tier 2,Supermarket Type2,3062.23,17
+15.39,Low Sugar,0.053,Fruits and Vegetables,137.79,OUT004,Medium,Tier 2,Supermarket Type2,3882.31,17
+13.39,No Sugar,0.071,Household,96.03,OUT004,Medium,Tier 2,Supermarket Type2,2576.35,17
+13.59,No Sugar,0.015,Household,141.86,OUT004,Medium,Tier 2,Supermarket Type2,3559.25,17
+14.29,No Sugar,0.018,Health and Hygiene,188.64,OUT001,High,Tier 2,Supermarket Type1,4675.53,39
+11.61,Low Sugar,0.127,Snack Foods,113.3,OUT004,Medium,Tier 2,Supermarket Type2,2527.98,17
+11.66,Low Sugar,0.12,Hard Drinks,106.36,OUT001,High,Tier 2,Supermarket Type1,2397.29,39
+13.74,Regular,0.028,Meat,184.46,OUT003,Medium,Tier 1,Departmental Store,4464.83,27
+15.55,Low Sugar,0.054,Frozen Foods,175.65,OUT001,High,Tier 2,Supermarket Type1,4693.61,39
+10.3,Low Sugar,0.037,Soft Drinks,154.46,OUT004,Medium,Tier 2,Supermarket Type2,2841.59,17
+10.11,Low Sugar,0.053,Hard Drinks,88.91,OUT002,Small,Tier 3,Food Mart,1690.08,28
+14.42,Regular,0.065,Snack Foods,170.37,OUT003,Medium,Tier 1,Departmental Store,4330.37,27
+14.43,No Sugar,0.021,Household,147.12,OUT004,Medium,Tier 2,Supermarket Type2,3855.59,17
+9.55,Low Sugar,0.043,Soft Drinks,88.28,OUT002,Small,Tier 3,Food Mart,539.71,28
+9.37,Low Sugar,0.049,Soft Drinks,94.63,OUT002,Small,Tier 3,Food Mart,1638.08,28
+14.53,Low Sugar,0.092,Breads,218.91,OUT003,Medium,Tier 1,Departmental Store,5348.62,27
+12.56,Low Sugar,0.105,Canned,155.88,OUT004,Medium,Tier 2,Supermarket Type2,2211.47,17
+11.41,Low Sugar,0.058,Snack Foods,136.52,OUT004,Medium,Tier 2,Supermarket Type2,2956.61,17
+12.84,Regular,0.103,Breads,177.55,OUT001,High,Tier 2,Supermarket Type1,4120.1,39
+14.57,Low Sugar,0.027,Frozen Foods,205.45,OUT003,Medium,Tier 1,Departmental Store,5082.79,27
+10.51,Regular,0.078,Breakfast,132.72,OUT004,Medium,Tier 2,Supermarket Type2,2676.02,17
+12.0,Low Sugar,0.097,Dairy,141.49,OUT004,Medium,Tier 2,Supermarket Type2,3191.41,17
+9.14,Low Sugar,0.098,Fruits and Vegetables,117.87,OUT002,Small,Tier 3,Food Mart,2061.73,28
+13.07,No Sugar,0.036,Household,115.87,OUT004,Medium,Tier 2,Supermarket Type2,2909.34,17
+9.99,Low Sugar,0.042,Soft Drinks,171.44,OUT004,Medium,Tier 2,Supermarket Type2,3938.84,17
+12.88,Low Sugar,0.044,Snack Foods,98.09,OUT004,Medium,Tier 2,Supermarket Type2,2503.26,17
+8.27,No Sugar,0.04,Health and Hygiene,152.07,OUT004,Medium,Tier 2,Supermarket Type2,2566.89,17
+15.47,Low Sugar,0.029,Soft Drinks,175.2,OUT001,High,Tier 2,Supermarket Type1,4666.43,39
+12.85,Regular,0.071,Soft Drinks,149.41,OUT004,Medium,Tier 2,Supermarket Type2,3546.23,17
+15.75,No Sugar,0.059,Household,171.93,OUT001,High,Tier 2,Supermarket Type1,4662.51,39
+8.02,Low Sugar,0.065,Canned,124.97,OUT001,High,Tier 2,Supermarket Type1,3090.42,39
+12.79,Low Sugar,0.129,Snack Foods,158.23,OUT004,Medium,Tier 2,Supermarket Type2,3712.56,17
+14.74,No Sugar,0.067,Household,142.5,OUT004,Medium,Tier 2,Supermarket Type2,3832.21,17
+12.6,No Sugar,0.087,Household,145.18,OUT004,Medium,Tier 2,Supermarket Type2,3403.01,17
+11.49,Regular,0.039,Frozen Foods,107.78,OUT001,High,Tier 2,Supermarket Type1,2387.13,39
+10.36,Low Sugar,0.026,Frozen Foods,129.89,OUT004,Medium,Tier 2,Supermarket Type2,2584.38,17
+11.1,Low Sugar,0.137,Frozen Foods,147.9,OUT004,Medium,Tier 2,Supermarket Type2,3120.8,17
+13.79,Low Sugar,0.124,Dairy,133.55,OUT004,Medium,Tier 2,Supermarket Type2,3434.67,17
+11.05,No Sugar,0.167,Household,103.52,OUT002,Small,Tier 3,Food Mart,2201.75,28
+14.68,Low Sugar,0.014,Snack Foods,164.7,OUT003,Medium,Tier 1,Departmental Store,4273.32,27
+12.21,Low Sugar,0.021,Frozen Foods,142.91,OUT004,Medium,Tier 2,Supermarket Type2,3268.26,17
+15.26,Regular,0.057,Dairy,210.59,OUT003,Medium,Tier 1,Departmental Store,5342.89,27
+9.81,Low Sugar,0.039,Frozen Foods,141.69,OUT004,Medium,Tier 2,Supermarket Type2,2701.94,17
+12.19,Low Sugar,0.133,Snack Foods,146.07,OUT004,Medium,Tier 2,Supermarket Type2,3329.9,17
+10.45,Low Sugar,0.019,Fruits and Vegetables,141.04,OUT004,Medium,Tier 2,Supermarket Type2,2833.3,17
+10.67,Regular,0.077,Canned,133.41,OUT004,Medium,Tier 2,Supermarket Type2,2727.68,17
+15.03,Regular,0.128,Canned,164.72,OUT003,Medium,Tier 1,Departmental Store,4353.59,27
+9.53,Regular,0.017,Frozen Foods,124.97,OUT002,Small,Tier 3,Food Mart,2296.65,28
+9.73,Regular,0.031,Canned,175.81,OUT004,Medium,Tier 2,Supermarket Type2,3381.51,17
+14.19,Low Sugar,0.235,Fruits and Vegetables,169.51,OUT003,Medium,Tier 1,Departmental Store,4260.6,27
+12.18,Low Sugar,0.102,Snack Foods,111.27,OUT004,Medium,Tier 2,Supermarket Type2,2614.19,17
+12.96,Low Sugar,0.076,Snack Foods,149.13,OUT004,Medium,Tier 2,Supermarket Type2,3564.55,17
+14.47,Low Sugar,0.049,Baking Goods,170.25,OUT003,Medium,Tier 1,Departmental Store,4339.24,27
+13.28,Regular,0.115,Meat,184.11,OUT003,Medium,Tier 1,Departmental Store,4354.46,27
+10.8,No Sugar,0.07,Health and Hygiene,135.13,OUT004,Medium,Tier 2,Supermarket Type2,2790.07,17
+16.02,Low Sugar,0.132,Baking Goods,187.35,OUT003,Medium,Tier 1,Departmental Store,5039.06,27
+9.19,Low Sugar,0.116,Frozen Foods,123.58,OUT002,Small,Tier 3,Food Mart,2191.14,28
+10.86,Regular,0.05,Fruits and Vegetables,137.11,OUT004,Medium,Tier 2,Supermarket Type2,2845.72,17
+11.62,No Sugar,0.034,Household,161.09,OUT004,Medium,Tier 2,Supermarket Type2,3506.56,17
+15.3,Low Sugar,0.085,Baking Goods,160.14,OUT003,Medium,Tier 1,Departmental Store,4320.81,27
+14.96,Regular,0.033,Baking Goods,179.22,OUT001,High,Tier 2,Supermarket Type1,4633.65,39
+16.84,Low Sugar,0.099,Soft Drinks,211.79,OUT003,Medium,Tier 1,Departmental Store,5723.55,27
+10.49,Regular,0.096,Seafood,131.73,OUT004,Medium,Tier 2,Supermarket Type2,2650.56,17
+12.07,Low Sugar,0.013,Frozen Foods,151.58,OUT004,Medium,Tier 2,Supermarket Type2,3414.2,17
+11.08,No Sugar,0.015,Household,143.99,OUT004,Medium,Tier 2,Supermarket Type2,3034.97,17
+14.34,Regular,0.021,Baking Goods,168.19,OUT003,Medium,Tier 1,Departmental Store,4268.48,27
+16.4,No Sugar,0.227,Health and Hygiene,158.93,OUT001,High,Tier 2,Supermarket Type1,4543.65,39
+11.9,Low Sugar,0.172,Dairy,97.08,OUT002,Small,Tier 3,Food Mart,2261.32,28
+11.19,Low Sugar,0.015,Fruits and Vegetables,168.64,OUT004,Medium,Tier 2,Supermarket Type2,3565.22,17
+9.65,Regular,0.154,Meat,119.85,OUT003,Medium,Tier 1,Departmental Store,5450.91,27
+8.9,Low Sugar,0.108,Snack Foods,149.8,OUT004,Medium,Tier 2,Supermarket Type2,2660.66,17
+14.91,Regular,0.08,Frozen Foods,157.23,OUT001,High,Tier 2,Supermarket Type1,4173.26,39
+12.8,No Sugar,0.034,Others,147.19,OUT004,Medium,Tier 2,Supermarket Type2,3488.76,17
+10.59,Low Sugar,0.126,Canned,165.05,OUT004,Medium,Tier 2,Supermarket Type2,3356.57,17
+8.92,Low Sugar,0.173,Canned,142.67,OUT004,Medium,Tier 2,Supermarket Type2,2519.65,17
+9.88,No Sugar,0.03,Health and Hygiene,161.65,OUT004,Medium,Tier 2,Supermarket Type2,3125.71,17
+13.84,Low Sugar,0.055,Fruits and Vegetables,122.2,OUT004,Medium,Tier 2,Supermarket Type2,3212.17,17
+10.44,No Sugar,0.1,Household,56.01,OUT002,Small,Tier 3,Food Mart,1091.66,28
+11.89,No Sugar,0.156,Household,131.49,OUT004,Medium,Tier 2,Supermarket Type2,2963.71,17
+10.98,Low Sugar,0.008,Fruits and Vegetables,147.43,OUT004,Medium,Tier 2,Supermarket Type2,3083.09,17
+13.91,Low Sugar,0.098,Baking Goods,186.73,OUT001,High,Tier 2,Supermarket Type1,4548.76,39
+12.67,Regular,0.074,Fruits and Vegetables,139.06,OUT004,Medium,Tier 2,Supermarket Type2,3293.97,17
+9.82,Regular,0.031,Baking Goods,145.64,OUT004,Medium,Tier 2,Supermarket Type2,2785.54,17
+17.15,Low Sugar,0.094,Baking Goods,182.91,OUT003,Medium,Tier 1,Departmental Store,5203.29,27
+12.21,Low Sugar,0.034,Baking Goods,133.22,OUT004,Medium,Tier 2,Supermarket Type2,3070.12,17
+15.51,Regular,0.052,Snack Foods,178.74,OUT001,High,Tier 2,Supermarket Type1,4748.07,39
+10.04,No Sugar,0.063,Household,147.01,OUT004,Medium,Tier 2,Supermarket Type2,2862.54,17
+11.67,Regular,0.107,Snack Foods,122.42,OUT004,Medium,Tier 2,Supermarket Type2,2727.11,17
+12.9,No Sugar,0.087,Household,176.86,OUT001,High,Tier 2,Supermarket Type1,4118.86,39
+11.79,Low Sugar,0.023,Fruits and Vegetables,154.96,OUT004,Medium,Tier 2,Supermarket Type2,3420.41,17
+16.19,Regular,0.067,Fruits and Vegetables,126.46,OUT004,Medium,Tier 2,Supermarket Type2,3831.71,17
+14.3,Low Sugar,0.076,Dairy,159.21,OUT001,High,Tier 2,Supermarket Type1,4074.0,39
+9.41,Low Sugar,0.011,Dairy,108.39,OUT002,Small,Tier 3,Food Mart,1929.27,28
+10.37,Low Sugar,0.117,Frozen Foods,141.27,OUT004,Medium,Tier 2,Supermarket Type2,2818.47,17
+13.27,Regular,0.046,Snack Foods,173.14,OUT001,High,Tier 2,Supermarket Type1,4128.1,39
+13.98,Regular,0.077,Fruits and Vegetables,176.77,OUT003,Medium,Tier 1,Departmental Store,4362.79,27
+12.77,No Sugar,0.095,Household,138.01,OUT004,Medium,Tier 2,Supermarket Type2,3294.63,17
+11.16,Low Sugar,0.042,Soft Drinks,89.14,OUT002,Small,Tier 3,Food Mart,1930.81,28
+14.26,Low Sugar,0.036,Dairy,169.03,OUT003,Medium,Tier 1,Departmental Store,4266.76,27
+13.94,Low Sugar,0.041,Frozen Foods,98.97,OUT004,Medium,Tier 2,Supermarket Type2,3560.26,17
+13.46,Low Sugar,0.15,Canned,169.06,OUT001,High,Tier 2,Supermarket Type1,4086.69,39
+11.77,Low Sugar,0.057,Dairy,132.2,OUT004,Medium,Tier 2,Supermarket Type2,2951.21,17
+13.69,No Sugar,0.06,Others,138.98,OUT004,Medium,Tier 2,Supermarket Type2,3522.61,17
+10.51,Low Sugar,0.062,Dairy,53.83,OUT002,Small,Tier 3,Food Mart,1062.04,28
+12.51,Low Sugar,0.069,Canned,154.31,OUT004,Medium,Tier 2,Supermarket Type2,3570.35,17
+14.52,Low Sugar,0.163,Hard Drinks,120.86,OUT004,Medium,Tier 2,Supermarket Type2,3340.76,17
+14.98,Low Sugar,0.092,Starchy Foods,150.59,OUT001,High,Tier 2,Supermarket Type1,3291.12,39
+13.23,Low Sugar,0.019,Frozen Foods,175.13,OUT001,High,Tier 2,Supermarket Type1,4158.06,39
+14.61,Low Sugar,0.016,Dairy,141.97,OUT004,Medium,Tier 2,Supermarket Type2,3792.19,17
+11.55,Regular,0.053,Starchy Foods,153.55,OUT004,Medium,Tier 2,Supermarket Type2,3337.44,17
+11.29,Regular,0.047,Snack Foods,72.58,OUT002,Small,Tier 3,Food Mart,1622.3,28
+15.96,Regular,0.016,Meat,136.4,OUT004,Medium,Tier 2,Supermarket Type2,3984.02,17
+18.31,Low Sugar,0.071,Snack Foods,175.55,OUT003,Medium,Tier 1,Departmental Store,5315.71,27
+14.98,Low Sugar,0.021,Frozen Foods,159.73,OUT003,Medium,Tier 1,Departmental Store,4239.51,27
+13.49,No Sugar,0.043,Others,165.5,OUT001,High,Tier 2,Supermarket Type1,4020.89,39
+15.49,Regular,0.089,Fruits and Vegetables,156.13,OUT003,Medium,Tier 1,Departmental Store,4279.56,27
+13.76,Low Sugar,0.153,Dairy,164.47,OUT001,High,Tier 2,Supermarket Type1,4060.69,39
+12.41,Low Sugar,0.028,Dairy,171.25,OUT004,Medium,Tier 2,Supermarket Type2,3895.07,17
+7.6,Regular,0.021,Frozen Foods,175.03,OUT004,Medium,Tier 2,Supermarket Type2,2885.13,17
+12.4,Low Sugar,0.056,Snack Foods,168.06,OUT004,Medium,Tier 2,Supermarket Type2,3826.59,17
+13.01,Low Sugar,0.052,Frozen Foods,144.55,OUT004,Medium,Tier 2,Supermarket Type2,3484.17,17
+13.98,Low Sugar,0.027,Meat,204.34,OUT001,High,Tier 2,Supermarket Type1,4925.23,39
+11.66,Low Sugar,0.031,Frozen Foods,125.99,OUT004,Medium,Tier 2,Supermarket Type2,2799.44,17
+14.83,No Sugar,0.081,Health and Hygiene,114.04,OUT004,Medium,Tier 2,Supermarket Type2,3270.77,17
+11.19,Low Sugar,0.077,Baking Goods,160.45,OUT004,Medium,Tier 2,Supermarket Type2,3398.06,17
+13.17,Regular,0.034,Fruits and Vegetables,122.91,OUT004,Medium,Tier 2,Supermarket Type2,3077.27,17
+14.59,Low Sugar,0.052,Frozen Foods,154.95,OUT001,High,Tier 2,Supermarket Type1,4053.82,39
+13.54,Low Sugar,0.113,Fruits and Vegetables,221.75,OUT003,Medium,Tier 1,Departmental Store,5181.65,27
+11.6,Low Sugar,0.039,Snack Foods,167.31,OUT004,Medium,Tier 2,Supermarket Type2,3630.7,17
+16.33,Low Sugar,0.089,Snack Foods,146.79,OUT003,Medium,Tier 1,Departmental Store,4280.48,27
+12.4,Regular,0.086,Fruits and Vegetables,187.48,OUT003,Medium,Tier 1,Departmental Store,4222.99,27
+10.72,Low Sugar,0.163,Soft Drinks,150.44,OUT004,Medium,Tier 2,Supermarket Type2,3085.1,17
+15.68,Regular,0.104,Snack Foods,141.98,OUT001,High,Tier 2,Supermarket Type1,4033.74,39
+8.72,Low Sugar,0.132,Meat,137.37,OUT001,High,Tier 2,Supermarket Type1,2366.22,39
+14.19,Low Sugar,0.08,Fruits and Vegetables,143.34,OUT004,Medium,Tier 2,Supermarket Type2,3724.87,17
+11.88,Low Sugar,0.21,Frozen Foods,129.82,OUT004,Medium,Tier 2,Supermarket Type2,2926.52,17
+16.49,No Sugar,0.024,Health and Hygiene,181.14,OUT003,Medium,Tier 1,Departmental Store,5019.21,27
+10.2,No Sugar,0.016,Health and Hygiene,116.99,OUT002,Small,Tier 3,Food Mart,2283.48,28
+13.66,Low Sugar,0.162,Snack Foods,168.46,OUT001,High,Tier 2,Supermarket Type1,4119.22,39
+12.4,Low Sugar,0.055,Dairy,112.74,OUT004,Medium,Tier 2,Supermarket Type2,2695.15,17
+12.31,Low Sugar,0.066,Fruits and Vegetables,119.26,OUT004,Medium,Tier 2,Supermarket Type2,2807.27,17
+12.7,Low Sugar,0.108,Meat,99.65,OUT001,High,Tier 2,Supermarket Type1,2495.16,39
+10.65,Low Sugar,0.062,Fruits and Vegetables,127.01,OUT004,Medium,Tier 2,Supermarket Type2,2590.47,17
+11.03,Low Sugar,0.274,Meat,157.22,OUT004,Medium,Tier 2,Supermarket Type2,3294.26,17
+11.54,Regular,0.071,Soft Drinks,107.03,OUT001,High,Tier 2,Supermarket Type1,2382.28,39
+11.12,No Sugar,0.121,Health and Hygiene,121.1,OUT004,Medium,Tier 2,Supermarket Type2,2575.64,17
+12.58,Low Sugar,0.128,Seafood,139.56,OUT004,Medium,Tier 2,Supermarket Type2,3283.29,17
+13.26,No Sugar,0.027,Health and Hygiene,173.33,OUT001,High,Tier 2,Supermarket Type1,4127.84,39
+14.61,Low Sugar,0.061,Soft Drinks,164.86,OUT003,Medium,Tier 1,Departmental Store,4259.73,27
+8.53,Low Sugar,0.026,Snack Foods,104.58,OUT002,Small,Tier 3,Food Mart,1652.8,28
+14.93,No Sugar,0.047,Household,202.51,OUT003,Medium,Tier 1,Departmental Store,4663.65,27
+12.84,Low Sugar,0.046,Baking Goods,144.7,OUT004,Medium,Tier 2,Supermarket Type2,3448.32,17
+10.35,Regular,0.026,Dairy,112.74,OUT002,Small,Tier 3,Food Mart,2230.35,28
+12.66,Low Sugar,0.105,Dairy,191.4,OUT003,Medium,Tier 1,Departmental Store,4361.81,27
+14.76,Low Sugar,0.069,Frozen Foods,154.51,OUT001,High,Tier 2,Supermarket Type1,4082.25,39
+11.05,Low Sugar,0.081,Canned,119.87,OUT004,Medium,Tier 2,Supermarket Type2,2535.28,17
+10.46,Low Sugar,0.077,Dairy,107.28,OUT002,Small,Tier 3,Food Mart,2144.15,28
+10.54,No Sugar,0.02,Household,115.72,OUT001,High,Tier 2,Supermarket Type1,2336.1,39
+13.75,Low Sugar,0.016,Fruits and Vegetables,172.22,OUT003,Medium,Tier 1,Departmental Store,4216.32,27
+13.32,Regular,0.054,Snack Foods,166.25,OUT004,Medium,Tier 2,Supermarket Type2,3997.29,17
+10.95,Low Sugar,0.073,Starchy Foods,145.75,OUT004,Medium,Tier 2,Supermarket Type2,3042.38,17
+14.62,Low Sugar,0.038,Dairy,231.55,OUT003,Medium,Tier 1,Departmental Store,5627.68,27
+11.11,Low Sugar,0.02,Soft Drinks,163.11,OUT004,Medium,Tier 2,Supermarket Type2,3433.77,17
+13.18,Low Sugar,0.104,Frozen Foods,156.22,OUT004,Medium,Tier 2,Supermarket Type2,3761.17,17
+15.34,Low Sugar,0.029,Canned,188.03,OUT001,High,Tier 2,Supermarket Type1,4899.16,39
+16.05,Regular,0.133,Canned,170.26,OUT001,High,Tier 2,Supermarket Type1,4697.11,39
+10.08,Low Sugar,0.026,Snack Foods,98.23,OUT002,Small,Tier 3,Food Mart,1872.35,28
+11.58,Regular,0.041,Fruits and Vegetables,114.95,OUT004,Medium,Tier 2,Supermarket Type2,2554.65,17
+8.71,Low Sugar,0.042,Frozen Foods,132.48,OUT002,Small,Tier 3,Food Mart,2265.13,28
+11.88,Low Sugar,0.188,Snack Foods,160.57,OUT004,Medium,Tier 2,Supermarket Type2,3555.41,17
+14.28,Low Sugar,0.019,Dairy,150.42,OUT004,Medium,Tier 2,Supermarket Type2,3890.89,17
+12.75,Low Sugar,0.093,Soft Drinks,116.25,OUT004,Medium,Tier 2,Supermarket Type2,2845.42,17
+11.15,Low Sugar,0.116,Fruits and Vegetables,140.71,OUT004,Medium,Tier 2,Supermarket Type2,2985.32,17
+11.09,Regular,0.036,Seafood,110.69,OUT001,High,Tier 2,Supermarket Type1,2357.24,39
+13.58,No Sugar,0.086,Household,170.01,OUT002,Small,Tier 3,Food Mart,2060.28,28
+12.78,Low Sugar,0.058,Snack Foods,181.08,OUT001,High,Tier 2,Supermarket Type1,4177.68,39
+16.19,Low Sugar,0.123,Meat,225.35,OUT003,Medium,Tier 1,Departmental Store,5855.94,27
+13.71,Regular,0.121,Seafood,162.82,OUT001,High,Tier 2,Supermarket Type1,4015.21,39
+12.83,Regular,0.079,Dairy,169.12,OUT004,Medium,Tier 2,Supermarket Type2,3944.15,17
+12.55,Low Sugar,0.08,Fruits and Vegetables,148.43,OUT004,Medium,Tier 2,Supermarket Type2,3459.85,17
+18.0,Regular,0.095,Baking Goods,233.52,OUT003,Medium,Tier 1,Departmental Store,6432.28,27
+11.76,Low Sugar,0.124,Frozen Foods,185.36,OUT001,High,Tier 2,Supermarket Type1,4034.76,39
+10.09,No Sugar,0.02,Household,116.0,OUT002,Small,Tier 3,Food Mart,2239.69,28
+12.76,Low Sugar,0.032,Fruits and Vegetables,82.59,OUT002,Small,Tier 3,Food Mart,2159.2,28
+13.53,Low Sugar,0.086,Snack Foods,160.32,OUT004,Medium,Tier 2,Supermarket Type2,3923.94,17
+10.45,Low Sugar,0.089,Dairy,89.04,OUT002,Small,Tier 3,Food Mart,972.72,28
+11.78,Low Sugar,0.047,Soft Drinks,153.89,OUT004,Medium,Tier 2,Supermarket Type2,3397.26,17
+11.85,Regular,0.034,Dairy,165.75,OUT004,Medium,Tier 2,Supermarket Type2,3654.69,17
+12.72,Low Sugar,0.274,Baking Goods,108.08,OUT004,Medium,Tier 2,Supermarket Type2,2671.34,17
+11.87,Low Sugar,0.04,Snack Foods,112.01,OUT004,Medium,Tier 2,Supermarket Type2,2558.75,17
+12.37,Low Sugar,0.066,Frozen Foods,120.29,OUT004,Medium,Tier 2,Supermarket Type2,2842.59,17
+16.95,Regular,0.042,Fruits and Vegetables,194.85,OUT003,Medium,Tier 1,Departmental Store,5403.97,27
+10.43,Regular,0.077,Snack Foods,119.8,OUT003,Medium,Tier 1,Departmental Store,5202.19,27
+11.36,Low Sugar,0.14,Soft Drinks,152.15,OUT004,Medium,Tier 2,Supermarket Type2,3265.06,17
+11.89,Low Sugar,0.061,Fruits and Vegetables,134.16,OUT004,Medium,Tier 2,Supermarket Type2,3018.46,17
+10.28,Low Sugar,0.135,Fruits and Vegetables,113.83,OUT002,Small,Tier 3,Food Mart,2237.04,28
+11.9,Low Sugar,0.024,Dairy,152.37,OUT004,Medium,Tier 2,Supermarket Type2,3393.08,17
+13.47,Low Sugar,0.078,Soft Drinks,156.38,OUT004,Medium,Tier 2,Supermarket Type2,3829.04,17
+12.96,Low Sugar,0.064,Soft Drinks,136.19,OUT004,Medium,Tier 2,Supermarket Type2,3301.96,17
+14.85,Low Sugar,0.047,Dairy,138.58,OUT004,Medium,Tier 2,Supermarket Type2,3777.26,17
+11.24,Low Sugar,0.046,Snack Foods,149.78,OUT004,Medium,Tier 2,Supermarket Type2,2335.73,17
+12.23,No Sugar,0.179,Household,94.2,OUT002,Small,Tier 3,Food Mart,2277.22,28
+13.71,Low Sugar,0.061,Frozen Foods,140.64,OUT004,Medium,Tier 2,Supermarket Type2,3562.53,17
+9.39,Low Sugar,0.12,Snack Foods,77.7,OUT002,Small,Tier 3,Food Mart,1296.88,28
+13.62,Low Sugar,0.074,Dairy,129.19,OUT004,Medium,Tier 2,Supermarket Type2,3827.27,17
+12.73,Low Sugar,0.042,Fruits and Vegetables,143.71,OUT004,Medium,Tier 2,Supermarket Type2,3402.45,17
+13.0,Low Sugar,0.027,Frozen Foods,146.74,OUT004,Medium,Tier 2,Supermarket Type2,3525.12,17
+12.69,Low Sugar,0.025,Meat,128.45,OUT004,Medium,Tier 2,Supermarket Type2,3081.17,17
+13.51,Low Sugar,0.04,Dairy,161.85,OUT004,Medium,Tier 2,Supermarket Type2,3949.2,17
+13.96,Low Sugar,0.09,Baking Goods,133.13,OUT004,Medium,Tier 2,Supermarket Type2,3464.35,17
+15.72,Regular,0.018,Breads,187.38,OUT003,Medium,Tier 1,Departmental Store,4971.94,27
+12.06,No Sugar,0.043,Household,123.58,OUT004,Medium,Tier 2,Supermarket Type2,2840.17,17
+9.91,No Sugar,0.059,Health and Hygiene,116.83,OUT002,Small,Tier 3,Food Mart,2216.23,28
+11.7,Regular,0.185,Dairy,199.75,OUT001,High,Tier 2,Supermarket Type1,3242.67,39
+12.17,Low Sugar,0.059,Meat,177.83,OUT004,Medium,Tier 2,Supermarket Type2,3973.77,17
+10.25,Low Sugar,0.17,Seafood,135.07,OUT004,Medium,Tier 2,Supermarket Type2,2666.67,17
+11.99,Regular,0.183,Frozen Foods,159.66,OUT004,Medium,Tier 2,Supermarket Type2,3562.91,17
+12.89,Low Sugar,0.024,Frozen Foods,129.58,OUT004,Medium,Tier 2,Supermarket Type2,3150.72,17
+12.16,Low Sugar,0.017,Snack Foods,174.77,OUT004,Medium,Tier 2,Supermarket Type2,3909.65,17
+14.81,Low Sugar,0.122,Snack Foods,197.96,OUT001,High,Tier 2,Supermarket Type1,4983.27,39
+13.33,Regular,0.082,Dairy,135.39,OUT004,Medium,Tier 2,Supermarket Type2,3368.53,17
+14.37,Low Sugar,0.066,Soft Drinks,167.02,OUT001,High,Tier 2,Supermarket Type1,4785.32,39
+10.89,Regular,0.142,Frozen Foods,112.77,OUT001,High,Tier 2,Supermarket Type1,2354.38,39
+13.6,Low Sugar,0.022,Snack Foods,147.93,OUT004,Medium,Tier 2,Supermarket Type2,3686.19,17
+10.57,No Sugar,0.042,Health and Hygiene,102.9,OUT002,Small,Tier 3,Food Mart,2080.18,28
+10.62,Low Sugar,0.082,Baking Goods,160.01,OUT003,Medium,Tier 1,Departmental Store,5656.64,27
+12.83,Low Sugar,0.068,Fruits and Vegetables,162.76,OUT004,Medium,Tier 2,Supermarket Type2,3814.11,17
+12.35,Regular,0.022,Meat,113.41,OUT004,Medium,Tier 2,Supermarket Type2,2697.34,17
+13.28,Low Sugar,0.072,Snack Foods,208.64,OUT001,High,Tier 2,Supermarket Type1,4854.85,39
+9.6,Low Sugar,0.033,Fruits and Vegetables,144.63,OUT004,Medium,Tier 2,Supermarket Type2,2714.28,17
+9.66,Low Sugar,0.024,Snack Foods,101.85,OUT002,Small,Tier 3,Food Mart,1851.95,28
+12.78,Low Sugar,0.121,Soft Drinks,120.0,OUT004,Medium,Tier 2,Supermarket Type2,2927.84,17
+15.8,Low Sugar,0.05,Snack Foods,177.27,OUT001,High,Tier 2,Supermarket Type1,4784.04,39
+9.55,Regular,0.127,Dairy,100.28,OUT002,Small,Tier 3,Food Mart,1795.75,28
+12.61,Low Sugar,0.086,Canned,146.61,OUT004,Medium,Tier 2,Supermarket Type2,3435.67,17
+13.24,Low Sugar,0.054,Baking Goods,123.06,OUT004,Medium,Tier 2,Supermarket Type2,3096.53,17
+13.55,Low Sugar,0.021,Baking Goods,133.29,OUT004,Medium,Tier 2,Supermarket Type2,3375.08,17
+16.65,Low Sugar,0.026,Fruits and Vegetables,188.74,OUT003,Medium,Tier 1,Departmental Store,5210.72,27
+15.6,Low Sugar,0.121,Soft Drinks,176.07,OUT001,High,Tier 2,Supermarket Type1,3191.08,39
+14.02,Low Sugar,0.067,Frozen Foods,197.16,OUT001,High,Tier 2,Supermarket Type1,4788.57,39
+9.79,No Sugar,0.027,Health and Hygiene,175.9,OUT004,Medium,Tier 2,Supermarket Type2,3396.6,17
+15.93,Regular,0.026,Baking Goods,168.48,OUT001,High,Tier 2,Supermarket Type1,4631.76,39
+12.23,Low Sugar,0.019,Dairy,137.19,OUT004,Medium,Tier 2,Supermarket Type2,3157.31,17
+15.48,Regular,0.142,Fruits and Vegetables,173.01,OUT001,High,Tier 2,Supermarket Type1,4623.59,39
+13.26,Regular,0.029,Soft Drinks,120.55,OUT004,Medium,Tier 2,Supermarket Type2,3048.43,17
+15.09,Regular,0.077,Snack Foods,131.45,OUT004,Medium,Tier 2,Supermarket Type2,3685.37,17
+14.0,Regular,0.041,Meat,157.91,OUT004,Medium,Tier 2,Supermarket Type2,3979.59,17
+12.23,Low Sugar,0.058,Seafood,164.15,OUT004,Medium,Tier 2,Supermarket Type2,3708.81,17
+12.78,Low Sugar,0.128,Snack Foods,171.78,OUT004,Medium,Tier 2,Supermarket Type2,3988.7,17
+10.54,Regular,0.067,Canned,172.61,OUT004,Medium,Tier 2,Supermarket Type2,3500.18,17
+12.01,Regular,0.019,Canned,134.17,OUT004,Medium,Tier 2,Supermarket Type2,3043.86,17
+13.32,Low Sugar,0.047,Fruits and Vegetables,142.68,OUT004,Medium,Tier 2,Supermarket Type2,3514.42,17
+13.07,No Sugar,0.126,Health and Hygiene,148.88,OUT004,Medium,Tier 2,Supermarket Type2,3586.44,17
+13.07,Low Sugar,0.014,Snack Foods,146.04,OUT004,Medium,Tier 2,Supermarket Type2,3526.31,17
+13.81,No Sugar,0.013,Health and Hygiene,170.97,OUT003,Medium,Tier 1,Departmental Store,4204.48,27
+10.52,Low Sugar,0.045,Dairy,153.92,OUT004,Medium,Tier 2,Supermarket Type2,3111.69,17
+11.17,Low Sugar,0.036,Soft Drinks,118.58,OUT004,Medium,Tier 2,Supermarket Type2,2535.24,17
+13.2,Low Sugar,0.133,Hard Drinks,119.63,OUT004,Medium,Tier 2,Supermarket Type2,3015.69,17
+13.79,Low Sugar,0.057,Snack Foods,98.9,OUT004,Medium,Tier 2,Supermarket Type2,2725.51,17
+10.17,No Sugar,0.031,Household,156.69,OUT004,Medium,Tier 2,Supermarket Type2,4075.37,17
+9.02,Regular,0.032,Fruits and Vegetables,104.6,OUT002,Small,Tier 3,Food Mart,1763.22,28
+13.4,No Sugar,0.129,Household,191.29,OUT001,High,Tier 2,Supermarket Type1,4527.45,39
+14.22,No Sugar,0.077,Household,145.91,OUT004,Medium,Tier 2,Supermarket Type2,3785.24,17
+12.41,No Sugar,0.042,Health and Hygiene,166.09,OUT004,Medium,Tier 2,Supermarket Type2,3788.44,17
+14.77,No Sugar,0.041,Others,130.2,OUT003,Medium,Tier 1,Departmental Store,6405.03,27
+10.97,Regular,0.128,Snack Foods,112.59,OUT001,High,Tier 2,Supermarket Type1,2368.46,39
+11.76,Low Sugar,0.053,Fruits and Vegetables,136.29,OUT004,Medium,Tier 2,Supermarket Type2,3032.46,17
+13.91,Low Sugar,0.092,Fruits and Vegetables,175.26,OUT003,Medium,Tier 1,Departmental Store,4313.99,27
+11.67,Low Sugar,0.118,Canned,179.54,OUT004,Medium,Tier 2,Supermarket Type2,3895.8,17
+12.81,Low Sugar,0.066,Fruits and Vegetables,157.7,OUT004,Medium,Tier 2,Supermarket Type2,3706.67,17
+12.33,Low Sugar,0.035,Baking Goods,168.63,OUT004,Medium,Tier 2,Supermarket Type2,3822.43,17
+11.07,Regular,0.075,Frozen Foods,144.46,OUT004,Medium,Tier 2,Supermarket Type2,3042.89,17
+14.3,Low Sugar,0.06,Canned,161.21,OUT001,High,Tier 2,Supermarket Type1,4115.69,39
+13.14,No Sugar,0.025,Household,152.12,OUT004,Medium,Tier 2,Supermarket Type2,3666.8,17
+13.51,Low Sugar,0.099,Snack Foods,157.57,OUT004,Medium,Tier 2,Supermarket Type2,3863.1,17
+10.55,Regular,0.039,Frozen Foods,113.22,OUT002,Small,Tier 3,Food Mart,2286.24,28
+12.6,Regular,0.131,Canned,164.77,OUT004,Medium,Tier 2,Supermarket Type2,3804.32,17
+13.37,Low Sugar,0.113,Baking Goods,137.21,OUT004,Medium,Tier 2,Supermarket Type2,3414.5,17
+12.32,Regular,0.032,Soft Drinks,181.1,OUT001,High,Tier 2,Supermarket Type1,4075.27,39
+12.37,Regular,0.049,Baking Goods,94.72,OUT001,High,Tier 2,Supermarket Type1,2318.2,39
+13.61,Low Sugar,0.255,Frozen Foods,184.29,OUT003,Medium,Tier 1,Departmental Store,4431.97,27
+16.53,Low Sugar,0.042,Baking Goods,181.12,OUT003,Medium,Tier 1,Departmental Store,5027.6,27
+14.82,Low Sugar,0.027,Baking Goods,119.5,OUT004,Medium,Tier 2,Supermarket Type2,3380.37,17
+10.52,Low Sugar,0.024,Baking Goods,132.07,OUT004,Medium,Tier 2,Supermarket Type2,2664.9,17
+15.16,Low Sugar,0.012,Canned,158.13,OUT003,Medium,Tier 1,Departmental Store,4246.67,27
+12.63,Low Sugar,0.161,Breakfast,191.98,OUT003,Medium,Tier 1,Departmental Store,4367.56,27
+9.54,Low Sugar,0.144,Soft Drinks,136.84,OUT004,Medium,Tier 2,Supermarket Type2,2541.15,17
+6.6,Low Sugar,0.17,Fruits and Vegetables,107.3,OUT002,Small,Tier 3,Food Mart,1273.4,28
+10.62,Regular,0.068,Canned,145.3,OUT004,Medium,Tier 2,Supermarket Type2,2958.97,17
+16.59,No Sugar,0.077,Others,151.9,OUT003,Medium,Tier 1,Departmental Store,4443.4,27
+10.15,Low Sugar,0.121,Seafood,98.69,OUT002,Small,Tier 3,Food Mart,1899.59,28
+16.83,Low Sugar,0.041,Frozen Foods,175.24,OUT003,Medium,Tier 1,Departmental Store,4974.43,27
+14.62,Regular,0.064,Canned,150.23,OUT004,Medium,Tier 2,Supermarket Type2,3962.62,17
+12.65,No Sugar,0.145,Health and Hygiene,134.69,OUT004,Medium,Tier 2,Supermarket Type2,3201.1,17
+10.55,No Sugar,0.072,Health and Hygiene,111.63,OUT002,Small,Tier 3,Food Mart,2254.13,28
+8.99,Regular,0.041,Starchy Foods,101.94,OUT002,Small,Tier 3,Food Mart,1702.62,28
+12.83,Low Sugar,0.09,Soft Drinks,166.31,OUT004,Medium,Tier 2,Supermarket Type2,3887.04,17
+10.73,Low Sugar,0.014,Fruits and Vegetables,153.79,OUT004,Medium,Tier 2,Supermarket Type2,3347.48,17
+12.83,Regular,0.056,Canned,122.78,OUT004,Medium,Tier 2,Supermarket Type2,2997.06,17
+8.97,Low Sugar,0.02,Snack Foods,118.77,OUT002,Small,Tier 3,Food Mart,2041.87,28
+13.61,Low Sugar,0.036,Snack Foods,136.92,OUT004,Medium,Tier 2,Supermarket Type2,3462.97,17
+15.44,Regular,0.056,Fruits and Vegetables,202.42,OUT003,Medium,Tier 1,Departmental Store,5217.54,27
+12.22,No Sugar,0.18,Household,107.63,OUT004,Medium,Tier 2,Supermarket Type2,2549.83,17
+11.0,Regular,0.12,Frozen Foods,152.09,OUT004,Medium,Tier 2,Supermarket Type2,3183.92,17
+8.26,Regular,0.086,Meat,131.1,OUT002,Small,Tier 3,Food Mart,2134.22,28
+11.94,Regular,0.049,Frozen Foods,139.55,OUT004,Medium,Tier 2,Supermarket Type2,3139.94,17
+15.87,Low Sugar,0.099,Fruits and Vegetables,128.43,OUT004,Medium,Tier 2,Supermarket Type2,3798.73,17
+13.14,No Sugar,0.161,Health and Hygiene,147.36,OUT004,Medium,Tier 2,Supermarket Type2,3569.52,17
+11.86,Regular,0.035,Breakfast,101.33,OUT001,High,Tier 2,Supermarket Type1,2339.85,39
+11.48,Low Sugar,0.099,Frozen Foods,159.91,OUT004,Medium,Tier 2,Supermarket Type2,3450.77,17
+11.02,Low Sugar,0.027,Fruits and Vegetables,156.98,OUT004,Medium,Tier 2,Supermarket Type2,3287.17,17
+13.02,No Sugar,0.02,Health and Hygiene,136.03,OUT004,Medium,Tier 2,Supermarket Type2,3311.89,17
+13.05,Regular,0.055,Dairy,165.89,OUT004,Medium,Tier 2,Supermarket Type2,3929.68,17
+12.11,No Sugar,0.033,Health and Hygiene,175.29,OUT004,Medium,Tier 2,Supermarket Type2,3908.14,17
+15.09,Low Sugar,0.011,Snack Foods,151.69,OUT001,High,Tier 2,Supermarket Type1,4100.39,39
+17.48,Low Sugar,0.12,Hard Drinks,213.86,OUT003,Medium,Tier 1,Departmental Store,5912.66,27
+13.65,Low Sugar,0.011,Breads,159.29,OUT004,Medium,Tier 2,Supermarket Type2,3929.81,17
+14.4,Low Sugar,0.091,Snack Foods,193.78,OUT001,High,Tier 2,Supermarket Type1,4804.13,39
+13.37,Low Sugar,0.089,Dairy,108.51,OUT004,Medium,Tier 2,Supermarket Type2,2827.9,17
+11.96,Regular,0.077,Breads,153.4,OUT004,Medium,Tier 2,Supermarket Type2,3428.18,17
+15.92,Low Sugar,0.14,Meat,96.04,OUT004,Medium,Tier 2,Supermarket Type2,3147.34,17
+13.2,Low Sugar,0.138,Soft Drinks,159.85,OUT004,Medium,Tier 2,Supermarket Type2,3838.27,17
+16.04,Low Sugar,0.028,Fruits and Vegetables,171.28,OUT001,High,Tier 2,Supermarket Type1,4715.82,39
+16.01,No Sugar,0.104,Health and Hygiene,237.33,OUT003,Medium,Tier 1,Departmental Store,6058.97,27
+13.17,Low Sugar,0.043,Dairy,119.91,OUT004,Medium,Tier 2,Supermarket Type2,3015.8,17
+12.11,Low Sugar,0.105,Frozen Foods,135.19,OUT004,Medium,Tier 2,Supermarket Type2,3089.44,17
+11.48,Low Sugar,0.048,Breads,102.47,OUT002,Small,Tier 3,Food Mart,2276.33,28
+16.35,Low Sugar,0.08,Baking Goods,202.49,OUT003,Medium,Tier 1,Departmental Store,5422.91,27
+8.71,Regular,0.046,Frozen Foods,134.83,OUT001,High,Tier 2,Supermarket Type1,2311.6,39
+12.3,Low Sugar,0.008,Fruits and Vegetables,157.24,OUT004,Medium,Tier 2,Supermarket Type2,3582.28,17
+9.2,No Sugar,0.058,Health and Hygiene,85.06,OUT002,Small,Tier 3,Food Mart,1404.7,28
+12.6,Regular,0.073,Fruits and Vegetables,146.25,OUT004,Medium,Tier 2,Supermarket Type2,3426.29,17
+14.83,Low Sugar,0.022,Meat,187.71,OUT001,High,Tier 2,Supermarket Type1,4776.75,39
+14.61,Low Sugar,0.094,Snack Foods,165.52,OUT003,Medium,Tier 1,Departmental Store,5720.28,27
+13.88,Regular,0.014,Canned,215.19,OUT003,Medium,Tier 1,Departmental Store,5126.13,27
+11.01,Low Sugar,0.123,Frozen Foods,101.95,OUT002,Small,Tier 3,Food Mart,2160.67,28
+11.72,Low Sugar,0.054,Snack Foods,143.43,OUT004,Medium,Tier 2,Supermarket Type2,3167.74,17
+14.77,Low Sugar,0.077,Starchy Foods,187.72,OUT001,High,Tier 2,Supermarket Type1,4763.72,39
+12.36,Regular,0.026,Soft Drinks,98.31,OUT001,High,Tier 2,Supermarket Type1,2389.89,39
+10.77,Low Sugar,0.016,Canned,136.99,OUT004,Medium,Tier 2,Supermarket Type2,2822.73,17
+14.47,Low Sugar,0.17,Fruits and Vegetables,147.45,OUT004,Medium,Tier 2,Supermarket Type2,3872.32,17
+13.57,Regular,0.017,Hard Drinks,164.9,OUT001,High,Tier 2,Supermarket Type1,4025.76,39
+5.91,Regular,0.159,Starchy Foods,90.33,OUT002,Small,Tier 3,Food Mart,769.28,28
+7.03,Low Sugar,0.172,Snack Foods,99.01,OUT002,Small,Tier 3,Food Mart,1200.1,28
+11.86,Regular,0.123,Snack Foods,111.41,OUT004,Medium,Tier 2,Supermarket Type2,2544.74,17
+13.77,Low Sugar,0.029,Meat,131.26,OUT004,Medium,Tier 2,Supermarket Type2,3383.07,17
+11.24,Low Sugar,0.031,Soft Drinks,130.26,OUT004,Medium,Tier 2,Supermarket Type2,2791.14,17
+13.18,No Sugar,0.015,Health and Hygiene,121.54,OUT004,Medium,Tier 2,Supermarket Type2,3050.48,17
+12.19,Low Sugar,0.092,Breakfast,164.5,OUT004,Medium,Tier 2,Supermarket Type2,3705.87,17
+12.22,Regular,0.064,Baking Goods,151.05,OUT004,Medium,Tier 2,Supermarket Type2,3437.02,17
+15.95,No Sugar,0.036,Others,176.83,OUT001,High,Tier 2,Supermarket Type1,4808.21,39
+10.56,Low Sugar,0.1,Snack Foods,92.82,OUT002,Small,Tier 3,Food Mart,1871.6,28
+14.93,Low Sugar,0.118,Fruits and Vegetables,171.78,OUT003,Medium,Tier 1,Departmental Store,4474.22,27
+12.14,Low Sugar,0.048,Canned,168.28,OUT004,Medium,Tier 2,Supermarket Type2,3772.64,17
+11.26,Low Sugar,0.065,Fruits and Vegetables,90.04,OUT002,Small,Tier 3,Food Mart,1972.62,28
+13.61,Regular,0.082,Fruits and Vegetables,160.36,OUT004,Medium,Tier 2,Supermarket Type2,3942.94,17
+13.69,Low Sugar,0.171,Soft Drinks,175.92,OUT003,Medium,Tier 1,Departmental Store,4279.81,27
+13.93,Low Sugar,0.114,Baking Goods,151.26,OUT004,Medium,Tier 2,Supermarket Type2,3829.14,17
+13.19,Low Sugar,0.007,Dairy,153.58,OUT004,Medium,Tier 2,Supermarket Type2,3708.43,17
+9.2,Low Sugar,0.061,Snack Foods,110.7,OUT002,Small,Tier 3,Food Mart,1929.27,28
+13.37,No Sugar,0.161,Health and Hygiene,163.02,OUT004,Medium,Tier 2,Supermarket Type2,4570.94,17
+12.97,Low Sugar,0.147,Soft Drinks,133.97,OUT004,Medium,Tier 2,Supermarket Type2,3257.26,17
+14.9,Low Sugar,0.05,Snack Foods,199.95,OUT003,Medium,Tier 1,Departmental Store,5043.15,27
+12.79,Regular,0.041,Fruits and Vegetables,168.13,OUT004,Medium,Tier 2,Supermarket Type2,3915.74,17
+12.65,Low Sugar,0.121,Frozen Foods,149.9,OUT004,Medium,Tier 2,Supermarket Type2,3511.58,17
+8.84,Low Sugar,0.017,Baking Goods,85.76,OUT002,Small,Tier 3,Food Mart,1337.22,28
+9.5,Low Sugar,0.05,Fruits and Vegetables,80.23,OUT002,Small,Tier 3,Food Mart,1375.0,28
+14.38,Low Sugar,0.042,Fruits and Vegetables,181.63,OUT001,High,Tier 2,Supermarket Type1,4551.13,39
+14.86,No Sugar,0.054,Household,156.97,OUT001,High,Tier 2,Supermarket Type1,4156.53,39
+16.56,Low Sugar,0.091,Starchy Foods,173.26,OUT003,Medium,Tier 1,Departmental Store,4872.02,27
+15.36,Low Sugar,0.044,Dairy,221.8,OUT003,Medium,Tier 1,Departmental Store,5594.15,27
+9.37,Low Sugar,0.068,Snack Foods,104.81,OUT002,Small,Tier 3,Food Mart,1847.26,28
+11.68,Regular,0.142,Fruits and Vegetables,142.45,OUT004,Medium,Tier 2,Supermarket Type2,3139.58,17
+14.05,Regular,0.122,Canned,164.51,OUT001,High,Tier 2,Supermarket Type1,4126.15,39
+16.01,Low Sugar,0.027,Fruits and Vegetables,117.48,OUT004,Medium,Tier 2,Supermarket Type2,3606.55,17
+9.57,Regular,0.031,Canned,122.46,OUT002,Small,Tier 3,Food Mart,980.96,28
+14.76,Low Sugar,0.033,Frozen Foods,145.42,OUT004,Medium,Tier 2,Supermarket Type2,3896.2,17
+14.42,Low Sugar,0.048,Fruits and Vegetables,164.97,OUT003,Medium,Tier 1,Departmental Store,4220.2,27
+10.3,Low Sugar,0.116,Soft Drinks,130.39,OUT004,Medium,Tier 2,Supermarket Type2,2581.85,17
+12.65,Regular,0.094,Dairy,132.79,OUT004,Medium,Tier 2,Supermarket Type2,3162.14,17
+10.67,Low Sugar,0.078,Soft Drinks,109.32,OUT002,Small,Tier 3,Food Mart,2234.54,28
+12.64,No Sugar,0.013,Household,162.56,OUT004,Medium,Tier 2,Supermarket Type2,3767.84,17
+14.61,Low Sugar,0.093,Starchy Foods,147.49,OUT004,Medium,Tier 2,Supermarket Type2,3905.37,17
+9.61,Low Sugar,0.015,Fruits and Vegetables,119.13,OUT002,Small,Tier 3,Food Mart,2195.62,28
+12.64,Low Sugar,0.12,Soft Drinks,103.88,OUT004,Medium,Tier 2,Supermarket Type2,2567.56,17
+13.82,Low Sugar,0.098,Fruits and Vegetables,149.84,OUT004,Medium,Tier 2,Supermarket Type2,3773.69,17
+13.13,Regular,0.095,Snack Foods,116.75,OUT004,Medium,Tier 2,Supermarket Type2,2942.07,17
+12.13,Low Sugar,0.124,Fruits and Vegetables,133.93,OUT004,Medium,Tier 2,Supermarket Type2,3066.52,17
+10.32,Low Sugar,0.053,Snack Foods,123.72,OUT001,High,Tier 2,Supermarket Type1,2449.63,39
+10.15,Low Sugar,0.032,Baking Goods,60.22,OUT002,Small,Tier 3,Food Mart,1110.95,28
+11.39,Low Sugar,0.065,Fruits and Vegetables,178.11,OUT004,Medium,Tier 2,Supermarket Type2,2119.94,17
+12.18,Low Sugar,0.097,Breads,137.39,OUT004,Medium,Tier 2,Supermarket Type2,3149.32,17
+12.84,Regular,0.106,Snack Foods,148.22,OUT004,Medium,Tier 2,Supermarket Type2,2237.84,17
+10.58,Low Sugar,0.04,Snack Foods,121.29,OUT001,High,Tier 2,Supermarket Type1,2457.01,39
+14.36,Regular,0.055,Canned,181.23,OUT001,High,Tier 2,Supermarket Type1,4539.29,39
+8.91,No Sugar,0.013,Health and Hygiene,127.02,OUT002,Small,Tier 3,Food Mart,2198.54,28
+13.88,Low Sugar,0.141,Dairy,196.47,OUT001,High,Tier 2,Supermarket Type1,4742.34,39
+10.24,Regular,0.059,Meat,115.23,OUT002,Small,Tier 3,Food Mart,2257.56,28
+15.94,No Sugar,0.121,Household,179.68,OUT001,High,Tier 2,Supermarket Type1,4863.11,39
+10.5,Low Sugar,0.14,Baking Goods,106.26,OUT002,Small,Tier 3,Food Mart,2131.75,28
+12.68,Low Sugar,0.03,Snack Foods,133.19,OUT004,Medium,Tier 2,Supermarket Type2,3176.35,17
+13.08,Low Sugar,0.085,Canned,150.7,OUT004,Medium,Tier 2,Supermarket Type2,3624.61,17
+14.44,No Sugar,0.038,Health and Hygiene,151.68,OUT004,Medium,Tier 2,Supermarket Type2,3951.74,17
+9.75,Regular,0.128,Fruits and Vegetables,138.87,OUT004,Medium,Tier 2,Supermarket Type2,2630.68,17
+13.92,Regular,0.083,Meat,174.02,OUT003,Medium,Tier 1,Departmental Store,4292.83,27
+12.89,Low Sugar,0.107,Fruits and Vegetables,153.05,OUT004,Medium,Tier 2,Supermarket Type2,3630.18,17
+12.92,No Sugar,0.086,Health and Hygiene,174.86,OUT001,High,Tier 2,Supermarket Type1,4082.33,39
+16.23,Regular,0.064,Frozen Foods,194.58,OUT003,Medium,Tier 1,Departmental Store,5233.81,27
+13.94,Low Sugar,0.147,Canned,158.27,OUT004,Medium,Tier 2,Supermarket Type2,3974.5,17
+11.8,Regular,0.029,Breads,144.64,OUT004,Medium,Tier 2,Supermarket Type2,3212.19,17
+14.77,No Sugar,0.055,Health and Hygiene,151.41,OUT001,High,Tier 2,Supermarket Type1,4022.0,39
+13.22,No Sugar,0.008,Health and Hygiene,174.99,OUT001,High,Tier 2,Supermarket Type1,4154.28,39
+12.05,Low Sugar,0.027,Baking Goods,145.13,OUT004,Medium,Tier 2,Supermarket Type2,3277.64,17
+10.98,Low Sugar,0.03,Baking Goods,179.08,OUT004,Medium,Tier 2,Supermarket Type2,3730.45,17
+13.29,Low Sugar,0.086,Canned,135.99,OUT004,Medium,Tier 2,Supermarket Type2,3371.45,17
+10.99,Low Sugar,0.022,Soft Drinks,146.14,OUT004,Medium,Tier 2,Supermarket Type2,2965.77,17
+11.92,No Sugar,0.017,Health and Hygiene,146.51,OUT004,Medium,Tier 2,Supermarket Type2,3277.85,17
+6.65,Low Sugar,0.068,Fruits and Vegetables,116.13,OUT002,Small,Tier 3,Food Mart,1464.46,28
+9.64,Low Sugar,0.057,Dairy,110.49,OUT002,Small,Tier 3,Food Mart,2024.02,28
+13.28,No Sugar,0.055,Household,135.31,OUT004,Medium,Tier 2,Supermarket Type2,3354.83,17
+17.36,Low Sugar,0.094,Dairy,169.33,OUT003,Medium,Tier 1,Departmental Store,4973.83,27
+15.97,Low Sugar,0.011,Meat,169.76,OUT001,High,Tier 2,Supermarket Type1,4668.59,39
+11.55,Regular,0.059,Soft Drinks,130.07,OUT004,Medium,Tier 2,Supermarket Type2,2857.01,17
+13.22,Low Sugar,0.108,Dairy,161.92,OUT004,Medium,Tier 2,Supermarket Type2,3885.99,17
+9.37,Low Sugar,0.042,Fruits and Vegetables,162.92,OUT004,Medium,Tier 2,Supermarket Type2,3035.82,17
+16.1,Low Sugar,0.027,Meat,156.81,OUT003,Medium,Tier 1,Departmental Store,4433.44,27
+13.9,Low Sugar,0.063,Frozen Foods,118.24,OUT004,Medium,Tier 2,Supermarket Type2,3147.07,17
+10.67,Regular,0.27,Frozen Foods,145.07,OUT004,Medium,Tier 2,Supermarket Type2,2965.12,17
+14.3,No Sugar,0.064,Health and Hygiene,112.68,OUT004,Medium,Tier 2,Supermarket Type2,3122.63,17
+12.45,Low Sugar,0.045,Frozen Foods,143.25,OUT004,Medium,Tier 2,Supermarket Type2,3328.99,17
+8.86,Low Sugar,0.173,Fruits and Vegetables,110.44,OUT002,Small,Tier 3,Food Mart,1847.19,28
+13.08,Low Sugar,0.049,Meat,116.28,OUT004,Medium,Tier 2,Supermarket Type2,2920.22,17
+15.63,Low Sugar,0.054,Dairy,184.91,OUT002,Small,Tier 3,Food Mart,903.76,28
+13.56,Low Sugar,0.184,Starchy Foods,136.92,OUT004,Medium,Tier 2,Supermarket Type2,3452.36,17
+14.38,Low Sugar,0.056,Snack Foods,129.89,OUT004,Medium,Tier 2,Supermarket Type2,3493.6,17
+10.56,Regular,0.012,Baking Goods,131.37,OUT004,Medium,Tier 2,Supermarket Type2,2660.86,17
+10.29,No Sugar,0.023,Health and Hygiene,123.32,OUT001,High,Tier 2,Supermarket Type1,2434.95,39
+11.95,Low Sugar,0.036,Hard Drinks,126.09,OUT004,Medium,Tier 2,Supermarket Type2,4956.07,17
+14.07,Regular,0.053,Meat,159.7,OUT001,High,Tier 2,Supermarket Type1,4033.41,39
+12.85,Low Sugar,0.074,Fruits and Vegetables,136.43,OUT004,Medium,Tier 2,Supermarket Type2,3280.11,17
+14.83,Low Sugar,0.147,Baking Goods,183.62,OUT001,High,Tier 2,Supermarket Type1,4693.97,39
+15.85,Low Sugar,0.072,Baking Goods,175.85,OUT002,Small,Tier 3,Food Mart,2171.18,28
+10.94,Low Sugar,0.051,Frozen Foods,133.62,OUT004,Medium,Tier 2,Supermarket Type2,2792.7,17
+11.72,Regular,0.102,Baking Goods,143.79,OUT004,Medium,Tier 2,Supermarket Type2,3175.51,17
+13.15,Regular,0.062,Meat,131.62,OUT004,Medium,Tier 2,Supermarket Type2,3249.17,17
+11.56,Low Sugar,0.179,Hard Drinks,152.18,OUT004,Medium,Tier 2,Supermarket Type2,3311.67,17
+16.64,Regular,0.094,Canned,194.6,OUT003,Medium,Tier 1,Departmental Store,5327.33,27
+11.3,No Sugar,0.077,Household,166.76,OUT004,Medium,Tier 2,Supermarket Type2,3551.79,17
+9.08,Low Sugar,0.012,Dairy,137.71,OUT001,High,Tier 2,Supermarket Type1,2455.14,39
+13.41,No Sugar,0.02,Health and Hygiene,163.29,OUT004,Medium,Tier 2,Supermarket Type2,3957.35,17
+13.79,Low Sugar,0.106,Fruits and Vegetables,162.59,OUT001,High,Tier 2,Supermarket Type1,4027.44,39
+14.83,No Sugar,0.078,Health and Hygiene,195.94,OUT001,High,Tier 2,Supermarket Type1,4945.96,39
+7.72,Low Sugar,0.07,Fruits and Vegetables,123.45,OUT002,Small,Tier 3,Food Mart,1856.55,28
+14.7,Low Sugar,0.089,Fruits and Vegetables,199.21,OUT001,High,Tier 2,Supermarket Type1,4984.16,39
+16.47,Low Sugar,0.126,Fruits and Vegetables,141.35,OUT001,High,Tier 2,Supermarket Type1,4199.05,39
+12.66,Low Sugar,0.031,Snack Foods,71.59,OUT002,Small,Tier 3,Food Mart,1911.3,28
+13.19,Regular,0.049,Canned,144.04,OUT004,Medium,Tier 2,Supermarket Type2,3514.3,17
+11.07,Regular,0.04,Snack Foods,97.88,OUT002,Small,Tier 3,Food Mart,2089.31,28
+13.07,Low Sugar,0.068,Soft Drinks,155.38,OUT004,Medium,Tier 2,Supermarket Type2,3718.13,17
+16.38,Low Sugar,0.082,Baking Goods,205.16,OUT003,Medium,Tier 1,Departmental Store,5485.4,27
+12.1,Low Sugar,0.12,Baking Goods,126.21,OUT004,Medium,Tier 2,Supermarket Type2,2901.63,17
+8.43,Low Sugar,0.124,Snack Foods,128.61,OUT002,Small,Tier 3,Food Mart,2122.69,28
+16.09,Regular,0.141,Canned,182.79,OUT003,Medium,Tier 1,Departmental Store,4961.87,27
+11.96,Low Sugar,0.062,Frozen Foods,143.25,OUT004,Medium,Tier 2,Supermarket Type2,3219.56,17
+16.46,Low Sugar,0.01,Fruits and Vegetables,186.04,OUT003,Medium,Tier 1,Departmental Store,5111.44,27
+12.42,Regular,0.016,Starchy Foods,136.13,OUT004,Medium,Tier 2,Supermarket Type2,3177.62,17
+19.82,Low Sugar,0.014,Canned,210.94,OUT002,Small,Tier 3,Food Mart,2129.71,28
+14.51,Low Sugar,0.14,Dairy,171.24,OUT003,Medium,Tier 1,Departmental Store,4367.27,27
+13.83,Low Sugar,0.016,Dairy,157.59,OUT004,Medium,Tier 2,Supermarket Type2,3934.91,17
+12.25,Regular,0.129,Canned,179.96,OUT001,High,Tier 2,Supermarket Type1,4035.32,39
+12.39,Low Sugar,0.015,Baking Goods,171.28,OUT004,Medium,Tier 2,Supermarket Type2,3890.84,17
+8.87,Low Sugar,0.042,Canned,113.46,OUT002,Small,Tier 3,Food Mart,1910.46,28
+12.75,Regular,0.028,Meat,136.17,OUT004,Medium,Tier 2,Supermarket Type2,3252.6,17
+11.67,Regular,0.098,Frozen Foods,139.09,OUT004,Medium,Tier 2,Supermarket Type2,3068.4,17
+13.71,Low Sugar,0.026,Snack Foods,119.95,OUT004,Medium,Tier 2,Supermarket Type2,3137.79,17
+14.08,Regular,0.121,Snack Foods,159.31,OUT001,High,Tier 2,Supermarket Type1,4028.09,39
+14.06,No Sugar,0.042,Household,141.08,OUT004,Medium,Tier 2,Supermarket Type2,3650.56,17
+11.77,Regular,0.068,Canned,140.05,OUT004,Medium,Tier 2,Supermarket Type2,3111.23,17
+8.18,Low Sugar,0.151,Soft Drinks,103.74,OUT002,Small,Tier 3,Food Mart,1557.03,28
+14.5,Low Sugar,0.172,Fruits and Vegetables,156.08,OUT001,High,Tier 2,Supermarket Type1,4055.52,39
+12.07,Low Sugar,0.107,Dairy,118.99,OUT004,Medium,Tier 2,Supermarket Type2,2747.61,17
+8.94,Regular,0.083,Frozen Foods,82.09,OUT002,Small,Tier 3,Food Mart,1285.77,28
+10.68,Regular,0.103,Canned,110.65,OUT002,Small,Tier 3,Food Mart,2262.47,28
+13.32,Regular,0.08,Frozen Foods,161.91,OUT004,Medium,Tier 2,Supermarket Type2,3907.98,17
+9.2,Low Sugar,0.081,Snack Foods,108.37,OUT002,Small,Tier 3,Food Mart,1881.0,28
+6.65,Low Sugar,0.021,Dairy,127.04,OUT002,Small,Tier 3,Food Mart,1687.72,28
+14.17,Low Sugar,0.082,Frozen Foods,161.55,OUT002,Small,Tier 3,Food Mart,1786.99,28
+11.26,Low Sugar,0.08,Canned,161.09,OUT004,Medium,Tier 2,Supermarket Type2,3426.12,17
+11.61,No Sugar,0.049,Health and Hygiene,200.87,OUT003,Medium,Tier 1,Departmental Store,4318.24,27
+10.84,Low Sugar,0.049,Meat,124.93,OUT002,Small,Tier 3,Food Mart,1215.18,28
+14.09,Low Sugar,0.067,Baking Goods,187.3,OUT001,High,Tier 2,Supermarket Type1,4601.87,39
+9.4,Low Sugar,0.082,Breads,125.61,OUT002,Small,Tier 3,Food Mart,2279.88,28
+12.04,No Sugar,0.121,Household,149.5,OUT004,Medium,Tier 2,Supermarket Type2,3365.3,17
+14.16,Low Sugar,0.055,Seafood,138.84,OUT004,Medium,Tier 2,Supermarket Type2,3627.0,17
+11.3,Low Sugar,0.074,Canned,153.49,OUT004,Medium,Tier 2,Supermarket Type2,3280.73,17
+15.98,Low Sugar,0.015,Hard Drinks,152.25,OUT003,Medium,Tier 1,Departmental Store,4312.36,27
+15.22,Regular,0.049,Snack Foods,189.82,OUT001,High,Tier 2,Supermarket Type1,4908.36,39
+15.12,Low Sugar,0.032,Fruits and Vegetables,191.62,OUT001,High,Tier 2,Supermarket Type1,4922.62,39
+12.13,Regular,0.073,Dairy,136.15,OUT004,Medium,Tier 2,Supermarket Type2,3112.24,17
+13.38,Low Sugar,0.038,Snack Foods,142.12,OUT004,Medium,Tier 2,Supermarket Type2,3516.49,17
+14.8,Low Sugar,0.067,Fruits and Vegetables,170.45,OUT003,Medium,Tier 1,Departmental Store,4418.58,27
+11.94,Low Sugar,0.019,Dairy,136.14,OUT004,Medium,Tier 2,Supermarket Type2,3070.15,17
+9.83,Low Sugar,0.131,Dairy,92.19,OUT002,Small,Tier 3,Food Mart,1693.14,28
+8.01,Low Sugar,0.138,Meat,97.48,OUT002,Small,Tier 3,Food Mart,1389.63,28
+17.37,No Sugar,0.112,Health and Hygiene,193.46,OUT003,Medium,Tier 1,Departmental Store,5468.6,27
+10.09,No Sugar,0.038,Health and Hygiene,150.73,OUT004,Medium,Tier 2,Supermarket Type2,2949.54,17
+12.86,No Sugar,0.076,Health and Hygiene,154.49,OUT004,Medium,Tier 2,Supermarket Type2,3651.67,17
+13.13,Regular,0.053,Canned,148.39,OUT004,Medium,Tier 2,Supermarket Type2,3589.17,17
+14.39,Low Sugar,0.021,Baking Goods,114.68,OUT004,Medium,Tier 2,Supermarket Type2,3184.62,17
+17.29,Low Sugar,0.125,Baking Goods,207.43,OUT003,Medium,Tier 1,Departmental Store,5736.55,27
+10.89,Low Sugar,0.02,Fruits and Vegetables,100.18,OUT002,Small,Tier 3,Food Mart,2095.86,28
+7.73,No Sugar,0.068,Health and Hygiene,115.8,OUT002,Small,Tier 3,Food Mart,1701.48,28
+13.05,Regular,0.065,Frozen Foods,161.83,OUT004,Medium,Tier 2,Supermarket Type2,3845.89,17
+13.09,Low Sugar,0.148,Dairy,124.13,OUT004,Medium,Tier 2,Supermarket Type2,3084.52,17
+16.75,Low Sugar,0.027,Breakfast,211.71,OUT003,Medium,Tier 1,Departmental Store,5702.22,27
+14.58,Regular,0.081,Baking Goods,155.59,OUT001,High,Tier 2,Supermarket Type1,4063.97,39
+15.15,Regular,0.021,Snack Foods,130.79,OUT004,Medium,Tier 2,Supermarket Type2,3685.57,17
+12.31,Low Sugar,0.029,Baking Goods,132.27,OUT004,Medium,Tier 2,Supermarket Type2,3073.84,17
+9.37,Low Sugar,0.047,Meat,130.6,OUT001,High,Tier 2,Supermarket Type1,2374.51,39
+8.71,Low Sugar,0.076,Dairy,153.67,OUT004,Medium,Tier 2,Supermarket Type2,2698.94,17
+13.04,Low Sugar,0.058,Snack Foods,91.53,OUT001,High,Tier 2,Supermarket Type1,2405.69,39
+17.53,Regular,0.058,Frozen Foods,193.39,OUT003,Medium,Tier 1,Departmental Store,5504.35,27
+13.07,Low Sugar,0.063,Snack Foods,150.55,OUT004,Medium,Tier 2,Supermarket Type2,3619.6,17
+10.65,Low Sugar,0.053,Soft Drinks,174.51,OUT004,Medium,Tier 2,Supermarket Type2,3563.53,17
+12.2,Regular,0.067,Fruits and Vegetables,161.51,OUT004,Medium,Tier 2,Supermarket Type2,3646.72,17
+13.28,Low Sugar,0.075,Breads,215.81,OUT003,Medium,Tier 1,Departmental Store,5002.16,27
+15.35,Low Sugar,0.109,Canned,148.09,OUT001,High,Tier 2,Supermarket Type1,4083.99,39
+14.59,Regular,0.105,Baking Goods,159.67,OUT002,Small,Tier 3,Food Mart,1201.99,28
+14.09,Low Sugar,0.074,Breads,179.77,OUT003,Medium,Tier 1,Departmental Store,4448.32,27
+11.82,Low Sugar,0.104,Canned,81.45,OUT001,High,Tier 2,Supermarket Type1,4512.55,39
+11.52,No Sugar,0.066,Others,109.74,OUT001,High,Tier 2,Supermarket Type1,2433.52,39
+12.38,Low Sugar,0.028,Meat,180.73,OUT001,High,Tier 2,Supermarket Type1,4080.93,39
+13.06,Regular,0.098,Dairy,135.29,OUT004,Medium,Tier 2,Supermarket Type2,3304.54,17
+10.38,Regular,0.012,Fruits and Vegetables,87.14,OUT002,Small,Tier 3,Food Mart,1713.58,28
+14.62,Low Sugar,0.033,Fruits and Vegetables,147.64,OUT004,Medium,Tier 2,Supermarket Type2,3909.34,17
+11.66,Low Sugar,0.072,Meat,176.77,OUT004,Medium,Tier 2,Supermarket Type2,3838.04,17
+9.92,Low Sugar,0.047,Dairy,96.75,OUT001,High,Tier 2,Supermarket Type1,3239.11,39
+13.84,Low Sugar,0.061,Meat,146.78,OUT004,Medium,Tier 2,Supermarket Type2,3717.08,17
+12.66,Regular,0.035,Seafood,128.72,OUT004,Medium,Tier 2,Supermarket Type2,3081.41,17
+10.31,Low Sugar,0.133,Meat,114.65,OUT002,Small,Tier 3,Food Mart,2261.67,28
+10.92,Low Sugar,0.053,Fruits and Vegetables,146.88,OUT004,Medium,Tier 2,Supermarket Type2,3058.47,17
+16.96,Low Sugar,0.057,Canned,180.06,OUT003,Medium,Tier 1,Departmental Store,5102.47,27
+10.31,Low Sugar,0.054,Frozen Foods,111.08,OUT002,Small,Tier 3,Food Mart,2188.81,28
+11.81,No Sugar,0.039,Health and Hygiene,155.01,OUT004,Medium,Tier 2,Supermarket Type2,3425.94,17
+11.97,Regular,0.034,Snack Foods,127.04,OUT004,Medium,Tier 2,Supermarket Type2,2890.19,17
+11.58,Regular,0.045,Fruits and Vegetables,117.86,OUT004,Medium,Tier 2,Supermarket Type2,3527.11,17
+15.56,Low Sugar,0.036,Frozen Foods,193.44,OUT003,Medium,Tier 1,Departmental Store,5059.8,27
+11.5,Low Sugar,0.021,Baking Goods,131.1,OUT004,Medium,Tier 2,Supermarket Type2,2866.1,17
+11.45,Regular,0.004,Meat,119.93,OUT004,Medium,Tier 2,Supermarket Type2,2627.24,17
+12.54,Low Sugar,0.077,Dairy,178.81,OUT001,High,Tier 2,Supermarket Type1,4078.82,39
+13.83,Regular,0.044,Snack Foods,181.91,OUT003,Medium,Tier 1,Departmental Store,4432.01,27
+8.49,Low Sugar,0.083,Snack Foods,133.15,OUT002,Small,Tier 3,Food Mart,2227.81,28
+15.31,Low Sugar,0.123,Snack Foods,146.65,OUT001,High,Tier 2,Supermarket Type1,4046.22,39
+15.61,Regular,0.034,Snack Foods,171.59,OUT001,High,Tier 2,Supermarket Type1,4624.57,39
+11.77,Low Sugar,0.025,Dairy,152.22,OUT003,Medium,Tier 1,Departmental Store,5751.8,27
+15.29,Low Sugar,0.029,Fruits and Vegetables,173.15,OUT002,Small,Tier 3,Food Mart,739.79,28
+11.69,Low Sugar,0.011,Canned,135.43,OUT004,Medium,Tier 2,Supermarket Type2,2998.93,17
+12.69,No Sugar,0.172,Others,135.49,OUT004,Medium,Tier 2,Supermarket Type2,3225.11,17
+14.7,Regular,0.077,Hard Drinks,212.65,OUT003,Medium,Tier 1,Departmental Store,5259.27,27
+16.06,Low Sugar,0.096,Frozen Foods,147.46,OUT003,Medium,Tier 1,Departmental Store,4231.04,27
+14.02,No Sugar,0.005,Health and Hygiene,140.49,OUT004,Medium,Tier 2,Supermarket Type2,3627.34,17
+14.09,Low Sugar,0.128,Snack Foods,178.38,OUT003,Medium,Tier 1,Departmental Store,4418.71,27
+11.17,Low Sugar,0.039,Hard Drinks,121.43,OUT004,Medium,Tier 2,Supermarket Type2,2594.03,17
+8.94,No Sugar,0.087,Health and Hygiene,108.35,OUT002,Small,Tier 3,Food Mart,1821.72,28
+12.57,No Sugar,0.025,Household,110.3,OUT004,Medium,Tier 2,Supermarket Type2,2683.82,17
+12.29,No Sugar,0.037,Household,129.26,OUT004,Medium,Tier 2,Supermarket Type2,3007.15,17
+12.24,Low Sugar,0.14,Fruits and Vegetables,127.3,OUT004,Medium,Tier 2,Supermarket Type2,2956.53,17
+14.32,Low Sugar,0.058,Meat,156.33,OUT001,High,Tier 2,Supermarket Type1,4020.89,39
+14.5,Regular,0.06,Frozen Foods,192.2,OUT001,High,Tier 2,Supermarket Type1,4794.54,39
+12.64,Regular,0.093,Fruits and Vegetables,165.84,OUT002,Small,Tier 3,Food Mart,1404.47,28
+12.87,Low Sugar,0.175,Dairy,146.47,OUT004,Medium,Tier 2,Supermarket Type2,3491.96,17
+17.58,No Sugar,0.077,Others,186.16,OUT003,Medium,Tier 1,Departmental Store,5368.35,27
+13.34,Regular,0.058,Snack Foods,108.9,OUT004,Medium,Tier 2,Supermarket Type2,2828.07,17
+14.77,No Sugar,0.169,Others,178.74,OUT001,High,Tier 2,Supermarket Type1,4579.65,39
+8.44,No Sugar,0.188,Health and Hygiene,102.17,OUT001,High,Tier 2,Supermarket Type1,4466.61,39
+9.88,Low Sugar,0.026,Canned,131.72,OUT004,Medium,Tier 2,Supermarket Type2,2512.52,17
+11.0,Regular,0.054,Breakfast,180.37,OUT004,Medium,Tier 2,Supermarket Type2,3762.44,17
+14.1,No Sugar,0.106,Household,203.7,OUT001,High,Tier 2,Supermarket Type1,4939.33,39
+13.87,Regular,0.085,Baking Goods,141.25,OUT004,Medium,Tier 2,Supermarket Type2,3610.55,17
+21.04,Regular,0.04,Starchy Foods,158.86,OUT003,Medium,Tier 1,Departmental Store,5591.41,27
+12.55,Low Sugar,0.095,Meat,139.35,OUT004,Medium,Tier 2,Supermarket Type2,3273.82,17
+11.52,Low Sugar,0.079,Canned,163.24,OUT004,Medium,Tier 2,Supermarket Type2,3529.94,17
+12.98,No Sugar,0.04,Household,183.24,OUT003,Medium,Tier 1,Departmental Store,4268.42,27
+13.8,Low Sugar,0.081,Fruits and Vegetables,139.15,OUT004,Medium,Tier 2,Supermarket Type2,3551.38,17
+11.82,Low Sugar,0.061,Meat,113.32,OUT004,Medium,Tier 2,Supermarket Type2,2574.25,17
