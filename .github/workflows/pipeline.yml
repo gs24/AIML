@@ -23,7 +23,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r superkart/requirements.txt
 
     - name: Login to Hugging Face
       run: |
