@@ -14,7 +14,7 @@ def load_model():
         st.write("Downloading model from Hugging Face...")
         model_path = hf_hub_download(
             repo_id="gsri24/superkart-model",
-            filename="superkart_best_pipeline.pkl"
+            filename="superkart_best_model.pkl"
         )
         st.write("Model downloaded successfully.")
         model = joblib.load(model_path)
@@ -55,7 +55,7 @@ input_data = {
         "Store_Size": store_size,
         "Store_Location_City_Type": store_location_city_type,
         "Store_Type": store_type,
-        "store_age": store_age
+        "Store_Age": store_age
     }
 
 input_df = pd.DataFrame([input_data])

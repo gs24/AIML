@@ -1,4 +1,5 @@
 
+
 name: ML Pipeline
 
 on:
@@ -22,12 +23,20 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install pandas scikit-learn joblib datasets huggingface_hub
+        pip install -r requirements.txt
 
     - name: Login to Hugging Face
       run: |
-        python -c "from huggingface_hub import login; login(token='${{ secrets.HF_TOKEN }}')"
+        pip install huggingface_hub
+        huggingface-cli login --token ${{ secrets.HF_TOKEN }}
+
+    - name: Data Preprocessing
+      run: python superkart/src/preprocess.py
 
     - name: Train model
-      run: python visit_with_us_mlops/src/train.py
+      run: python superkart/src/train.py
+
+    - name: model Evaluation
+      run: python superkart/src/evaluate.py
       
+     
