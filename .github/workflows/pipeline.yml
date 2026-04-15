@@ -24,10 +24,10 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r mlops/superkart/requirements.txt
+        pip install huggingface_hub
 
     - name: Login to Hugging Face
-      run: |
-        pip install huggingface_hub
+      run: |       
         huggingface-cli login --token ${{ secrets.HF_TOKEN }}
 
     - name: Data Preprocessing
