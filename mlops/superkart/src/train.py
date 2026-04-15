@@ -2,7 +2,7 @@
 
 
 from datasets import load_dataset
-rom sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import RandomForestRegressor
 import joblib
 from huggingface_hub import HfApi, login
 
