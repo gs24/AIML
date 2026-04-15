@@ -5,6 +5,7 @@ from datasets import load_dataset
 from sklearn.ensemble import RandomForestRegressor
 import joblib
 from huggingface_hub import HfApi, login
+import os
 
 def login_hf():
     login(token=os.environ["HF_TOKEN"])
