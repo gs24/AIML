@@ -27,9 +27,8 @@ jobs:
         pip install huggingface_hub
 
     - name: Login to Hugging Face
-      run: |       
-        huggingface-cli login --token ${{ secrets.HF_TOKEN }}
-
+      run: echo "HF_TOKEN=${{ secrets.HF_TOKEN }}" >> $GITHUB_ENV      
+        
     - name: Data Preprocessing
       run: python mlops/superkart/src/preprocess.py
 
