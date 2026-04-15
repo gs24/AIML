@@ -23,20 +23,19 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r mlops/superkart/requirements.txt
+        pip install huggingface_hub
 
     - name: Login to Hugging Face
-      run: |
-        pip install huggingface_hub
-        huggingface-cli login --token ${{ secrets.HF_TOKEN }}
-
+      run: echo "HF_TOKEN=${{ secrets.HF_TOKEN }}" >> $GITHUB_ENV      
+        
     - name: Data Preprocessing
-      run: python superkart/src/preprocess.py
+      run: python mlops/superkart/src/preprocess.py
 
     - name: Train model
-      run: python superkart/src/train.py
+      run: python mlops/superkart/src/train.py
 
     - name: model Evaluation
-      run: python superkart/src/evaluate.py
+      run: python mlops/superkart/src/evaluate.py
       
      

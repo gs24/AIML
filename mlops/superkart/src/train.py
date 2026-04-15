@@ -2,12 +2,17 @@
 
 
 from datasets import load_dataset
-rom sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import RandomForestRegressor
 import joblib
-from huggingface_hub import HfApi
+from huggingface_hub import HfApi, login
+import os
+
+def login_hf():
+    login(token=os.environ["HF_TOKEN"])
+
 
 def train():
-
+    login_hf()
     # Load train data
     train_data = load_dataset("gsri24/superkart-train")["train"].to_pandas()
 
@@ -37,5 +42,5 @@ def train():
 
 if __name__ == "__main__":
     train()
-    
+     
 
