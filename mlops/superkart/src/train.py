@@ -44,48 +44,8 @@ def train():
     train_data = load_dataset("gsri24/superkart-train")["train"].to_pandas()
 
     
-    current_year= datetime.today().year
-    
-    train_data["Store_Age"] = current_year - train_data["Store_Establishment_Year"]
-
-    #Removing unwanted column if exists
-    train_data = train_data.drop(columns=["__index_level_0__","Store_Establishment_Year","Product_Id"], errors="ignore")
 
     
-    train_data["Product_Sugar_Content"] = train_data["Product_Sugar_Content"].replace({
-        "reg": "Regular"
-    })
-
-    X_train = train_data.drop("target", axis=1)
-    y_train = train_data["target"]
-
-    for col in X_train.columns:
-        if X_train[col].dtype == "object":
-            X_train[col] = X_train[col].astype(str)
-        
-    # Identify categorical & numerical columns
-    cat_cols = X_train.select_dtypes(include="object").columns.tolist()
-    print(cat_cols)
-    num_cols = X_train.select_dtypes(exclude="object").columns.tolist()
-    print(num_cols)
-
-    # categorical_features = [
-    # "Product_Sugar_Content",    
-    # "Product_Type",    
-    # "Store_Id",
-    # "Store_Size",
-    # "Store_Location_City_Type",
-    # "Store_Type"
-    # ]
-
-    # #Listing the numerical variables
-    # numerical_features = [
-    #     "Product_Weight",
-    #     "Product_Allocated_Area",
-    #     "Product_MRP",
-    #     "Store_Establishment_Year"
-    # ]
-
     numerical_transformer = Pipeline(steps=[
     ('imputer', SimpleImputer(strategy='median'))
     ])
