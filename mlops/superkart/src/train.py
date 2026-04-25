@@ -44,7 +44,7 @@ def train():
     
 
     #Removing unwanted column if exists
-    train_data = train_data.drop(columns=["__index_level_0__","Store_Establishment_Year"], errors="ignore")
+    train_data = train_data.drop(columns=["__index_level_0__","Store_Establishment_Year "], errors="ignore")
 
     train_data["Store_Age"] = 2026 - train_data["Store_Establishment_Year"]
 
