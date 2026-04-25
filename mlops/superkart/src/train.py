@@ -58,6 +58,11 @@ def train():
 
     X_train = train_data.drop("target", axis=1)
     y_train = train_data["target"]
+
+    for col in X_train.columns:
+        if X_train[col].dtype == "object":
+            X_train[col] = X_train[col].astype(str)
+        
     # Identify categorical & numerical columns
     cat_cols = X_train.select_dtypes(include="object").columns.tolist()
     num_cols = X_train.select_dtypes(exclude="object").columns.tolist()
