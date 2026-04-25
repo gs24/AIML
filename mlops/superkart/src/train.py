@@ -84,8 +84,8 @@ def train():
     # Push to Hugging Face
     api = HfApi()
     api.upload_file(
-        path_or_fileobj="pipeline.pkl",
-        path_in_repo="pipeline.pkl",
+        path_or_fileobj="superkart_best_model.pkl",
+        path_in_repo="superkart_best_model.pkl",
         repo_id="gsri24/superkart-model",
         repo_type="model"
     )
