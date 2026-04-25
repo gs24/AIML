@@ -79,7 +79,7 @@ def train():
     pipeline.fit(X_train, y_train)
 
     # Save model
-    joblib.dump(pipeline, "pipeline.pkl")
+    joblib.dump(pipeline, "superkart_best_model.pkl")
 
     # Push to Hugging Face
     api = HfApi()
