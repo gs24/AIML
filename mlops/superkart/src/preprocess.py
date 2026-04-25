@@ -21,18 +21,18 @@ def preprocess():
 
     current_year= datetime.today().year
     
-    train_data["Store_Age"] = current_year - train_data["Store_Establishment_Year"]
+    df["Store_Age"] = current_year - df["Store_Establishment_Year"]
 
     #Removing unwanted column if exists
-    train_data = train_data.drop(columns=["__index_level_0__","Store_Establishment_Year","Product_Id"], errors="ignore")
+    df = df.drop(columns=["__index_level_0__","Store_Establishment_Year","Product_Id"], errors="ignore")
 
     
-    train_data["Product_Sugar_Content"] = train_data["Product_Sugar_Content"].replace({
+    df["Product_Sugar_Content"] = df["Product_Sugar_Content"].replace({
         "reg": "Regular"
     })
 
-    X_train = train_data.drop("target", axis=1)
-    y_train = train_data["target"]
+    X_train = df.drop("target", axis=1)
+    y_train = df["target"]
 
     for col in X_train.columns:
         if X_train[col].dtype == "object":
