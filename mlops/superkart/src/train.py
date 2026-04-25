@@ -56,7 +56,8 @@ def train():
         "reg": "Regular"
     })
 
-
+    X_train = train_data.drop("Product_Store_Sales_Total", axis=1)
+    y_train = train_data["Product_Store_Sales_Total"]
     # Identify categorical & numerical columns
     cat_cols = X_train.select_dtypes(include="object").columns.tolist()
     num_cols = X_train.select_dtypes(exclude="object").columns.tolist()
