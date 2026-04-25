@@ -15,7 +15,7 @@ def evaluate():
     y_test = test_data["target"]
 
     # Load model
-    model = joblib.load("model.pkl")
+    model = joblib.load("superkart_best_model.pkl")
 
     # Predict
     preds = model.predict(X_test)
