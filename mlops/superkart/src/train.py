@@ -42,10 +42,23 @@ def train():
     login_hf()
     # Load train data
     train_data = load_dataset("gsri24/superkart-train")["train"].to_pandas()
+    train_data = train_data.drop(columns=["__index_level_0__"], errors="ignore")
 
-    
+    X_train = train_data.drop("target", axis=1)
+    y_train = train_data["target"]
 
-    
+    or col in X_train.columns:
+        if X_train[col].dtype == "object":
+            X_train[col] = X_train[col].astype(str)
+        else:
+            X_train[col] = pd.to_numeric(X_train[col], errors="coerce")
+
+    cat_cols = X_train.select_dtypes(include="object").columns.tolist()
+    num_cols = X_train.select_dtypes(exclude="object").columns.tolist()
+
+    print("Categorical:", cat_cols)
+    print("Numerical:", num_cols)
+
     numerical_transformer = Pipeline(steps=[
     ('imputer', SimpleImputer(strategy='median'))
     ])
