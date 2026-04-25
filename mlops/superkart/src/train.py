@@ -45,7 +45,9 @@ def train():
     login_hf()
     # Load train data
     train_data = load_dataset("gsri24/superkart-train")["train"].to_pandas()
+    train_data = train_data.reset_index(drop=True)
     train_data = train_data.drop(columns=["__index_level_0__"], errors="ignore")
+    
 
     X_train = train_data.drop("target", axis=1)
     y_train = train_data["target"]
