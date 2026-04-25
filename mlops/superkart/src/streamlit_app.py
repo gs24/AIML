@@ -1,6 +1,9 @@
 
 
 
+
+
+
 import streamlit as st
 import pandas as pd
 import joblib
@@ -58,7 +61,30 @@ input_data = {
         "Store_Age": store_age
     }
 
+expected_cols = [
+    "Product_Weight",
+    "Product_Sugar_Content",
+    "Product_Allocated_Area",
+    "Product_Type",
+    "Product_MRP",
+    "Store_Id",
+    "Store_Size",
+    "Store_Location_City_Type",
+    "Store_Type",
+    "Store_Age"
+]
+
 input_df = pd.DataFrame([input_data])
+
+input_df = input_df.reindex(columns=expected_cols)
+
+for col in input_df.columns:
+    if input_df[col].dtype == "object":
+        input_df[col] = input_df[col].astype(str)
+    else:
+        input_df[col] = pd.to_numeric(input_df[col], errors="coerce")
+
+
 
 if st.button("Predict"):
     if pipeline is not None:
@@ -66,4 +92,6 @@ if st.button("Predict"):
         st.success(f"Predicted Sales: {prediction[0]:.2f}")
     else:
         st.error("Model not loaded. Please check dependencies.")
+
+
 
