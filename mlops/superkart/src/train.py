@@ -1,6 +1,3 @@
-
-
-
 import pandas as pd
 from datasets import load_dataset
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -8,49 +5,21 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestRegressor
 
-import joblib
+
 
 import warnings
 warnings.filterwarnings("ignore")
 
 # Libraries to help with reading and manipulating data
 import numpy as np
-import pandas as pd
+
 
 # For splitting the dataset
 from sklearn.model_selection import train_test_split
 
-# Libaries to help with data visualization
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-# Removes the limit for the number of displayed columns
-pd.set_option("display.max_columns", None)
-# Sets the limit for the number of displayed rows
-pd.set_option("display.max_rows", 100)
-
-# Libraries different ensemble classifiers
-from sklearn.ensemble import (
-    BaggingRegressor,
-    RandomForestRegressor,
-    AdaBoostRegressor,
-    GradientBoostingRegressor,
-)
-from xgboost import XGBRegressor
 from sklearn.tree import DecisionTreeRegressor
 
-# Libraries to get different metric scores
-from sklearn.metrics import (
-    confusion_matrix,
-    accuracy_score,
-    precision_score,
-    recall_score,
-    f1_score,
-    mean_squared_error,
-    mean_absolute_error,
-    r2_score,
-    mean_absolute_percentage_error
-)
+
 
 # Additional imports
 from sklearn.metrics import mean_squared_error, r2_score
@@ -58,7 +27,6 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.impute import SimpleImputer
-from sklearn.model_selection import GridSearchCV
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from huggingface_hub import login, HfApi, create_repo
 from sklearn.metrics import make_scorer
@@ -73,8 +41,12 @@ def train():
     # Load train data
     train_data = load_dataset("gsri24/superkart-train")["train"].to_pandas()
 
+    
+
     #Removing unwanted column if exists
     train_data = train_data.drop(columns=["__index_level_0__"], errors="ignore")
+
+    train_data["Store_Age"] = 2026 - train_data["Store_Establishment_Year"]
 
 
     X_train = train_data.drop("target", axis=1)
@@ -120,5 +92,3 @@ def train():
 
 if __name__ == "__main__":
     train()
-     
-
