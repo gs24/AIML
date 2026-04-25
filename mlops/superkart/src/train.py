@@ -1,6 +1,3 @@
-
-
-
 import pandas as pd
 from datasets import load_dataset
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -21,6 +18,9 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 
 from sklearn.tree import DecisionTreeRegressor
+
+from datetime import datetime
+#Creating a new feature Store_Age
 
 from datetime import datetime
 #Creating a new feature Store_Age
@@ -106,7 +106,5 @@ def train():
     )
 
 if __name__ == "__main__":
-    train()
-
-     
+    train()     
 

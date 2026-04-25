@@ -4,6 +4,7 @@ from datasets import load_dataset, Dataset
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
+from datetime import datetime
 
 def preprocess():
 
@@ -15,21 +16,68 @@ def preprocess():
     df = df.dropna()
     df = df.drop(columns=["Product_Id"])
 
-    # Feature engineering
-    df["Store_Age"] = 2026 - df["Store_Establishment_Year"]
 
-    # Encoding
-    le = LabelEncoder()
-    for col in df.select_dtypes(include="object").columns:
-        df[col] = le.fit_transform(df[col])
+    current_year= datetime.today().year
+    
+    df["Store_Age"] = current_year - df["Store_Establishment_Year"]
 
-    # Split
+    #Removing unwanted column if exists
+    df = df.drop(columns=["__index_level_0__","Store_Establishment_Year","Product_Id"], errors="ignore")
+
+    
+    df["Product_Sugar_Content"] = df["Product_Sugar_Content"].replace({
+        "reg": "Regular"
+    })
+
+    # X_train = df.drop("Product_Store_Sales_Total", axis=1)
+    # y_train = df["Product_Store_Sales_Total"]
+
+    for col in df.columns:
+        if df[col].dtype == "object":
+            df[col] = df[col].astype(str)
+        else:
+            df[col] = pd.to_numeric(df[col], errors="coerce")
+            
     X = df.drop("Product_Store_Sales_Total", axis=1)
     y = df["Product_Store_Sales_Total"]
+
+    
+    # Identify categorical & numerical columns
+    cat_cols = X.select_dtypes(include="object").columns.tolist()
+    print(cat_cols)
+    num_cols = X.select_dtypes(exclude="object").columns.tolist()
+    print(num_cols)
+
+    # categorical_features = [
+    # "Product_Sugar_Content",    
+    # "Product_Type",    
+    # "Store_Id",
+    # "Store_Size",
+    # "Store_Location_City_Type",
+    # "Store_Type"
+    # ]
+
+    # #Listing the numerical variables
+    # numerical_features = [
+    #     "Product_Weight",
+    #     "Product_Allocated_Area",
+    #     "Product_MRP",
+    #     "Store_Establishment_Year"
+    # ]
+
+
+    # Encoding
+    # le = LabelEncoder()
+    # for col in df.select_dtypes(include="object").columns:
+    #     df[col] = le.fit_transform(df[col])
+
+    # Split
+    
 
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=85
     )
+    
 
     # Save
     train_df = X_train.copy()
