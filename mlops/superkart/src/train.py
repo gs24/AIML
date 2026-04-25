@@ -65,7 +65,9 @@ def train():
         
     # Identify categorical & numerical columns
     cat_cols = X_train.select_dtypes(include="object").columns.tolist()
+    print(cat_cols)
     num_cols = X_train.select_dtypes(exclude="object").columns.tolist()
+    print(num_cols)
 
     # categorical_features = [
     # "Product_Sugar_Content",    
