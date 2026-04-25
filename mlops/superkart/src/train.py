@@ -12,6 +12,7 @@ warnings.filterwarnings("ignore")
 
 # Libraries to help with reading and manipulating data
 import numpy as np
+import time
 
 
 # For splitting the dataset
@@ -104,7 +105,8 @@ def train():
         path_or_fileobj="superkart_best_model.pkl",
         path_in_repo="superkart_best_model.pkl",
         repo_id="gsri24/superkart-model",
-        repo_type="model"
+        repo_type="model",
+        commit_message=f"Update model {time.time()}"
     )
 
 if __name__ == "__main__":
