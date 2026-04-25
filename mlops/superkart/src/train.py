@@ -49,7 +49,7 @@ def train():
     train_data["Store_Age"] = current_year - train_data["Store_Establishment_Year"]
 
     #Removing unwanted column if exists
-    train_data = train_data.drop(columns=["__index_level_0__","Store_Establishment_Year","Product_Id", "Product_Store_Sales_Total"], errors="ignore")
+    train_data = train_data.drop(columns=["__index_level_0__","Store_Establishment_Year","Product_Id"], errors="ignore")
 
     
     train_data["Product_Sugar_Content"] = train_data["Product_Sugar_Content"].replace({
