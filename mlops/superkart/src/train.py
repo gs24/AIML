@@ -56,28 +56,28 @@ def train():
         "reg": "Regular"
     })
 
-    X_train = train_data.drop("Product_Store_Sales_Total", axis=1)
-    y_train = train_data["Product_Store_Sales_Total"]
+    X_train = train_data.drop("target", axis=1)
+    y_train = train_data["target"]
     # Identify categorical & numerical columns
     cat_cols = X_train.select_dtypes(include="object").columns.tolist()
     num_cols = X_train.select_dtypes(exclude="object").columns.tolist()
 
-    categorical_features = [
-    "Product_Sugar_Content",    
-    "Product_Type",    
-    "Store_Id",
-    "Store_Size",
-    "Store_Location_City_Type",
-    "Store_Type"
-    ]
+    # categorical_features = [
+    # "Product_Sugar_Content",    
+    # "Product_Type",    
+    # "Store_Id",
+    # "Store_Size",
+    # "Store_Location_City_Type",
+    # "Store_Type"
+    # ]
 
-    #Listing the numerical variables
-    numerical_features = [
-        "Product_Weight",
-        "Product_Allocated_Area",
-        "Product_MRP",
-        "Store_Establishment_Year"
-    ]
+    # #Listing the numerical variables
+    # numerical_features = [
+    #     "Product_Weight",
+    #     "Product_Allocated_Area",
+    #     "Product_MRP",
+    #     "Store_Establishment_Year"
+    # ]
 
     numerical_transformer = Pipeline(steps=[
     ('imputer', SimpleImputer(strategy='median'))
@@ -92,8 +92,8 @@ def train():
     # Preprocessing
     preprocessor = ColumnTransformer(
     transformers=[
-        ('numeric', numerical_transformer, numerical_features),
-        ('categorical', categorical_transformer, categorical_features)
+        ('numeric', numerical_transformer, num_cols),
+        ('categorical', categorical_transformer, cat_cols)
     ])
 
     # Pipeline
