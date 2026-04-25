@@ -104,7 +104,8 @@ def train():
         path_or_fileobj="superkart_best_model.pkl",
         path_in_repo="superkart_best_model.pkl",
         repo_id="gsri24/superkart-model",
-        repo_type="model"
+        repo_type="model",
+        commit_message=f"Update model {time.time()}"
     )
 
 if __name__ == "__main__":
