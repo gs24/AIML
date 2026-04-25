@@ -47,7 +47,7 @@ def train():
     X_train = train_data.drop("target", axis=1)
     y_train = train_data["target"]
 
-    or col in X_train.columns:
+    for col in X_train.columns:
         if X_train[col].dtype == "object":
             X_train[col] = X_train[col].astype(str)
         else:
