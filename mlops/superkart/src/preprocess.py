@@ -16,8 +16,6 @@ def preprocess():
     df = df.dropna()
     df = df.drop(columns=["Product_Id"])
 
-    # Feature engineering
-    df["Store_Age"] = 2026 - df["Store_Establishment_Year"]
 
     current_year= datetime.today().year
     
@@ -31,17 +29,23 @@ def preprocess():
         "reg": "Regular"
     })
 
-    X_train = df.drop("target", axis=1)
-    y_train = df["target"]
+    # X_train = df.drop("Product_Store_Sales_Total", axis=1)
+    # y_train = df["Product_Store_Sales_Total"]
 
-    for col in X_train.columns:
-        if X_train[col].dtype == "object":
-            X_train[col] = X_train[col].astype(str)
-        
+    for col in df.columns:
+        if df[col].dtype == "object":
+            df[col] = df[col].astype(str)
+        else:
+            df[col] = pd.to_numeric(df[col], errors="coerce")
+            
+    X = df.drop("Product_Store_Sales_Total", axis=1)
+    y = df["Product_Store_Sales_Total"]
+
+    
     # Identify categorical & numerical columns
-    cat_cols = X_train.select_dtypes(include="object").columns.tolist()
+    cat_cols = X.select_dtypes(include="object").columns.tolist()
     print(cat_cols)
-    num_cols = X_train.select_dtypes(exclude="object").columns.tolist()
+    num_cols = X.select_dtypes(exclude="object").columns.tolist()
     print(num_cols)
 
     # categorical_features = [
@@ -68,8 +72,7 @@ def preprocess():
     #     df[col] = le.fit_transform(df[col])
 
     # Split
-    X = df.drop("Product_Store_Sales_Total", axis=1)
-    y = df["Product_Store_Sales_Total"]
+    
 
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=85
